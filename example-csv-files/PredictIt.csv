@@ -1,0 +1,905 @@
+market_id,contract_id,market_name,end_date,side,price
+7589,28361,How many House seats will Republicans win in the 2026 midterm election? - 192 or fewer,2025-11-14T03:53:41.0657081,YES,0.16
+7589,28361,How many House seats will Republicans win in the 2026 midterm election? - 192 or fewer,2025-11-14T03:53:41.0657081,NO,0.85
+7589,28362,How many House seats will Republicans win in the 2026 midterm election? - 193 to 197,2025-11-14T03:53:41.0657081,YES,0.06
+7589,28362,How many House seats will Republicans win in the 2026 midterm election? - 193 to 197,2025-11-14T03:53:41.0657081,NO,0.95
+7589,28369,How many House seats will Republicans win in the 2026 midterm election? - 198 to 202,2025-11-14T03:53:41.0657081,YES,0.08
+7589,28369,How many House seats will Republicans win in the 2026 midterm election? - 198 to 202,2025-11-14T03:53:41.0657081,NO,0.93
+7589,28367,How many House seats will Republicans win in the 2026 midterm election? - 203 to 207,2025-11-14T03:53:41.0657081,YES,0.12
+7589,28367,How many House seats will Republicans win in the 2026 midterm election? - 203 to 207,2025-11-14T03:53:41.0657081,NO,0.89
+7589,28366,How many House seats will Republicans win in the 2026 midterm election? - 208 to 212,2025-11-14T03:53:41.0657081,YES,0.14
+7589,28366,How many House seats will Republicans win in the 2026 midterm election? - 208 to 212,2025-11-14T03:53:41.0657081,NO,0.87
+7589,28370,How many House seats will Republicans win in the 2026 midterm election? - 213 to 217,2025-11-14T03:53:41.0657081,YES,0.17
+7589,28370,How many House seats will Republicans win in the 2026 midterm election? - 213 to 217,2025-11-14T03:53:41.0657081,NO,0.84
+7589,28368,How many House seats will Republicans win in the 2026 midterm election? - 218 to 222,2025-11-14T03:53:41.0657081,YES,0.16
+7589,28368,How many House seats will Republicans win in the 2026 midterm election? - 218 to 222,2025-11-14T03:53:41.0657081,NO,0.85
+7589,28365,How many House seats will Republicans win in the 2026 midterm election? - 223 to 227,2025-11-14T03:53:41.0657081,YES,0.13
+7589,28365,How many House seats will Republicans win in the 2026 midterm election? - 223 to 227,2025-11-14T03:53:41.0657081,NO,0.88
+7589,28363,How many House seats will Republicans win in the 2026 midterm election? - 228 to 232,2025-11-14T03:53:41.0657081,YES,0.06
+7589,28363,How many House seats will Republicans win in the 2026 midterm election? - 228 to 232,2025-11-14T03:53:41.0657081,NO,0.95
+7589,28364,How many House seats will Republicans win in the 2026 midterm election? - 233 to 237,2025-11-14T03:53:41.0657081,YES,0.04
+7589,28364,How many House seats will Republicans win in the 2026 midterm election? - 233 to 237,2025-11-14T03:53:41.0657081,NO,0.97
+7589,28371,How many House seats will Republicans win in the 2026 midterm election? - 238 or more,2025-11-14T03:53:41.0657081,YES,0.04
+7589,28371,How many House seats will Republicans win in the 2026 midterm election? - 238 or more,2025-11-14T03:53:41.0657081,NO,0.97
+8100,31489,Will Congress confirm a Supreme Court justice in 2025? - Will Congress confirm a Supreme Court justice in 2025?,2025-11-14T03:53:41.0657081,YES,0.02
+8100,31489,Will Congress confirm a Supreme Court justice in 2025? - Will Congress confirm a Supreme Court justice in 2025?,2025-11-14T03:53:41.0657081,NO,0.99
+8135,31811,Who will be the first Cabinet member to leave in 2025? - Tulsi Gabbard,2025-11-14T03:53:41.0657081,YES,0.04
+8135,31811,Who will be the first Cabinet member to leave in 2025? - Tulsi Gabbard,2025-11-14T03:53:41.0657081,NO,0.97
+8135,31802,Who will be the first Cabinet member to leave in 2025? - Pete Hegseth,2025-11-14T03:53:41.0657081,YES,0.04
+8135,31802,Who will be the first Cabinet member to leave in 2025? - Pete Hegseth,2025-11-14T03:53:41.0657081,NO,0.97
+8135,31814,Who will be the first Cabinet member to leave in 2025? - Howard Lutnick,2025-11-14T03:53:41.0657081,YES,0.04
+8135,31814,Who will be the first Cabinet member to leave in 2025? - Howard Lutnick,2025-11-14T03:53:41.0657081,NO,0.97
+8135,31800,Who will be the first Cabinet member to leave in 2025? - Marco Rubio,2025-11-14T03:53:41.0657081,YES,0.01
+8135,31800,Who will be the first Cabinet member to leave in 2025? - Marco Rubio,2025-11-14T03:53:41.0657081,NO,
+8135,31801,Who will be the first Cabinet member to leave in 2025? - Scott Bessent,2025-11-14T03:53:41.0657081,YES,0.01
+8135,31801,Who will be the first Cabinet member to leave in 2025? - Scott Bessent,2025-11-14T03:53:41.0657081,NO,
+8135,31803,Who will be the first Cabinet member to leave in 2025? - Doug Burgum,2025-11-14T03:53:41.0657081,YES,0.01
+8135,31803,Who will be the first Cabinet member to leave in 2025? - Doug Burgum,2025-11-14T03:53:41.0657081,NO,
+8135,31804,Who will be the first Cabinet member to leave in 2025? - Brooke Rollins,2025-11-14T03:53:41.0657081,YES,0.01
+8135,31804,Who will be the first Cabinet member to leave in 2025? - Brooke Rollins,2025-11-14T03:53:41.0657081,NO,
+8135,31805,Who will be the first Cabinet member to leave in 2025? - Lee Zeldin,2025-11-14T03:53:41.0657081,YES,0.01
+8135,31805,Who will be the first Cabinet member to leave in 2025? - Lee Zeldin,2025-11-14T03:53:41.0657081,NO,
+8135,31806,Who will be the first Cabinet member to leave in 2025? - R. F. Kennedy Jr.,2025-11-14T03:53:41.0657081,YES,0.02
+8135,31806,Who will be the first Cabinet member to leave in 2025? - R. F. Kennedy Jr.,2025-11-14T03:53:41.0657081,NO,0.99
+8135,31807,Who will be the first Cabinet member to leave in 2025? - Scott Turner,2025-11-14T03:53:41.0657081,YES,0.01
+8135,31807,Who will be the first Cabinet member to leave in 2025? - Scott Turner,2025-11-14T03:53:41.0657081,NO,
+8135,31808,Who will be the first Cabinet member to leave in 2025? - Sean Duffy,2025-11-14T03:53:41.0657081,YES,0.01
+8135,31808,Who will be the first Cabinet member to leave in 2025? - Sean Duffy,2025-11-14T03:53:41.0657081,NO,
+8135,31809,Who will be the first Cabinet member to leave in 2025? - Doug Collins,2025-11-14T03:53:41.0657081,YES,0.01
+8135,31809,Who will be the first Cabinet member to leave in 2025? - Doug Collins,2025-11-14T03:53:41.0657081,NO,
+8135,31810,Who will be the first Cabinet member to leave in 2025? - Kristi Noem,2025-11-14T03:53:41.0657081,YES,0.02
+8135,31810,Who will be the first Cabinet member to leave in 2025? - Kristi Noem,2025-11-14T03:53:41.0657081,NO,0.99
+8135,31812,Who will be the first Cabinet member to leave in 2025? - Russell Vought,2025-11-14T03:53:41.0657081,YES,0.01
+8135,31812,Who will be the first Cabinet member to leave in 2025? - Russell Vought,2025-11-14T03:53:41.0657081,NO,
+8135,31813,Who will be the first Cabinet member to leave in 2025? - Chris Wright,2025-11-14T03:53:41.0657081,YES,0.02
+8135,31813,Who will be the first Cabinet member to leave in 2025? - Chris Wright,2025-11-14T03:53:41.0657081,NO,0.99
+8141,31856,Will any US federal judge be impeached in 2025? - Will any US federal judge be impeached in 2025?,2025-11-14T03:53:41.0657081,YES,0.05
+8141,31856,Will any US federal judge be impeached in 2025? - Will any US federal judge be impeached in 2025?,2025-11-14T03:53:41.0657081,NO,0.97
+8142,31860,How many vetoes will Trump issue in 2025? - 0 vetoes,2025-11-14T03:53:41.0657081,YES,0.92
+8142,31860,How many vetoes will Trump issue in 2025? - 0 vetoes,2025-11-14T03:53:41.0657081,NO,0.1
+8142,31861,How many vetoes will Trump issue in 2025? - 1 veto,2025-11-14T03:53:41.0657081,YES,0.09
+8142,31861,How many vetoes will Trump issue in 2025? - 1 veto,2025-11-14T03:53:41.0657081,NO,0.92
+8142,31859,How many vetoes will Trump issue in 2025? - 2 vetoes,2025-11-14T03:53:41.0657081,YES,0.01
+8142,31859,How many vetoes will Trump issue in 2025? - 2 vetoes,2025-11-14T03:53:41.0657081,NO,
+8142,31858,How many vetoes will Trump issue in 2025? - 3 vetoes,2025-11-14T03:53:41.0657081,YES,0.01
+8142,31858,How many vetoes will Trump issue in 2025? - 3 vetoes,2025-11-14T03:53:41.0657081,NO,
+8142,31857,How many vetoes will Trump issue in 2025? - 4 or more  vetoes,2025-11-14T03:53:41.0657081,YES,0.01
+8142,31857,How many vetoes will Trump issue in 2025? - 4 or more  vetoes,2025-11-14T03:53:41.0657081,NO,
+8143,31862,Will Congress override a veto in 2025? - Will Congress override a veto in 2025?,2025-11-14T03:53:41.0657081,YES,0.02
+8143,31862,Will Congress override a veto in 2025? - Will Congress override a veto in 2025?,2025-11-14T03:53:41.0657081,NO,0.99
+8152,31925,Who will win the 2028 Republican presidential nomination? - JD Vance,2025-11-14T03:53:41.0657081,YES,0.55
+8152,31925,Who will win the 2028 Republican presidential nomination? - JD Vance,2025-11-14T03:53:41.0657081,NO,0.46
+8152,31930,Who will win the 2028 Republican presidential nomination? - Marco Rubio,2025-11-14T03:53:41.0657081,YES,0.09
+8152,31930,Who will win the 2028 Republican presidential nomination? - Marco Rubio,2025-11-14T03:53:41.0657081,NO,0.92
+8152,31928,Who will win the 2028 Republican presidential nomination? - Donald Trump,2025-11-14T03:53:41.0657081,YES,0.06
+8152,31928,Who will win the 2028 Republican presidential nomination? - Donald Trump,2025-11-14T03:53:41.0657081,NO,0.95
+8152,31932,Who will win the 2028 Republican presidential nomination? - Glenn Youngkin,2025-11-14T03:53:41.0657081,YES,0.05
+8152,31932,Who will win the 2028 Republican presidential nomination? - Glenn Youngkin,2025-11-14T03:53:41.0657081,NO,0.96
+8152,32069,Who will win the 2028 Republican presidential nomination? - Ron DeSantis,2025-11-14T03:53:41.0657081,YES,0.05
+8152,32069,Who will win the 2028 Republican presidential nomination? - Ron DeSantis,2025-11-14T03:53:41.0657081,NO,0.96
+8152,31933,Who will win the 2028 Republican presidential nomination? - Brian Kemp,2025-11-14T03:53:41.0657081,YES,0.04
+8152,31933,Who will win the 2028 Republican presidential nomination? - Brian Kemp,2025-11-14T03:53:41.0657081,NO,0.97
+8152,31927,Who will win the 2028 Republican presidential nomination? - Ted Cruz,2025-11-14T03:53:41.0657081,YES,0.03
+8152,31927,Who will win the 2028 Republican presidential nomination? - Ted Cruz,2025-11-14T03:53:41.0657081,NO,0.98
+8152,31929,Who will win the 2028 Republican presidential nomination? - Donald Trump Jr.,2025-11-14T03:53:41.0657081,YES,0.03
+8152,31929,Who will win the 2028 Republican presidential nomination? - Donald Trump Jr.,2025-11-14T03:53:41.0657081,NO,0.98
+8152,31926,Who will win the 2028 Republican presidential nomination? - Tulsi Gabbard,2025-11-14T03:53:41.0657081,YES,0.02
+8152,31926,Who will win the 2028 Republican presidential nomination? - Tulsi Gabbard,2025-11-14T03:53:41.0657081,NO,0.99
+8152,31931,Who will win the 2028 Republican presidential nomination? - Kristi Noem,2025-11-14T03:53:41.0657081,YES,0.02
+8152,31931,Who will win the 2028 Republican presidential nomination? - Kristi Noem,2025-11-14T03:53:41.0657081,NO,0.99
+8152,32829,Who will win the 2028 Republican presidential nomination? - M. Taylor Greene,2025-11-14T03:53:41.0657081,YES,0.02
+8152,32829,Who will win the 2028 Republican presidential nomination? - M. Taylor Greene,2025-11-14T03:53:41.0657081,NO,0.99
+8153,31937,Who will win the 2028 Democratic presidential nomination? - Gavin Newsom,2025-11-14T03:53:41.0657081,YES,0.35
+8153,31937,Who will win the 2028 Democratic presidential nomination? - Gavin Newsom,2025-11-14T03:53:41.0657081,NO,0.66
+8153,31936,Who will win the 2028 Democratic presidential nomination? - A. Ocasio-Cortez,2025-11-14T03:53:41.0657081,YES,0.15
+8153,31936,Who will win the 2028 Democratic presidential nomination? - A. Ocasio-Cortez,2025-11-14T03:53:41.0657081,NO,0.86
+8153,31940,Who will win the 2028 Democratic presidential nomination? - Josh Shapiro,2025-11-14T03:53:41.0657081,YES,0.07
+8153,31940,Who will win the 2028 Democratic presidential nomination? - Josh Shapiro,2025-11-14T03:53:41.0657081,NO,0.94
+8153,31941,Who will win the 2028 Democratic presidential nomination? - Andy Beshear,2025-11-14T03:53:41.0657081,YES,0.08
+8153,31941,Who will win the 2028 Democratic presidential nomination? - Andy Beshear,2025-11-14T03:53:41.0657081,NO,0.93
+8153,31935,Who will win the 2028 Democratic presidential nomination? - Pete Buttigieg,2025-11-14T03:53:41.0657081,YES,0.06
+8153,31935,Who will win the 2028 Democratic presidential nomination? - Pete Buttigieg,2025-11-14T03:53:41.0657081,NO,0.95
+8153,31938,Who will win the 2028 Democratic presidential nomination? - JB Pritzker,2025-11-14T03:53:41.0657081,YES,0.06
+8153,31938,Who will win the 2028 Democratic presidential nomination? - JB Pritzker,2025-11-14T03:53:41.0657081,NO,0.95
+8153,31939,Who will win the 2028 Democratic presidential nomination? - Gretchen Whitmer,2025-11-14T03:53:41.0657081,YES,0.05
+8153,31939,Who will win the 2028 Democratic presidential nomination? - Gretchen Whitmer,2025-11-14T03:53:41.0657081,NO,0.96
+8153,31942,Who will win the 2028 Democratic presidential nomination? - Wes Moore,2025-11-14T03:53:41.0657081,YES,0.04
+8153,31942,Who will win the 2028 Democratic presidential nomination? - Wes Moore,2025-11-14T03:53:41.0657081,NO,0.97
+8153,31934,Who will win the 2028 Democratic presidential nomination? - Kamala Harris,2025-11-14T03:53:41.0657081,YES,0.04
+8153,31934,Who will win the 2028 Democratic presidential nomination? - Kamala Harris,2025-11-14T03:53:41.0657081,NO,0.97
+8153,32160,Who will win the 2028 Democratic presidential nomination? - Jon Ossoff,2025-11-14T03:53:41.0657081,YES,0.04
+8153,32160,Who will win the 2028 Democratic presidential nomination? - Jon Ossoff,2025-11-14T03:53:41.0657081,NO,0.97
+8153,32387,Who will win the 2028 Democratic presidential nomination? - Rahm Emanuel,2025-11-14T03:53:41.0657081,YES,0.03
+8153,32387,Who will win the 2028 Democratic presidential nomination? - Rahm Emanuel,2025-11-14T03:53:41.0657081,NO,0.98
+8153,31943,Who will win the 2028 Democratic presidential nomination? - Stephen A Smith,2025-11-14T03:53:41.0657081,YES,0.02
+8153,31943,Who will win the 2028 Democratic presidential nomination? - Stephen A Smith,2025-11-14T03:53:41.0657081,NO,0.99
+8153,31944,Who will win the 2028 Democratic presidential nomination? - Cory Booker,2025-11-14T03:53:41.0657081,YES,0.02
+8153,31944,Who will win the 2028 Democratic presidential nomination? - Cory Booker,2025-11-14T03:53:41.0657081,NO,0.99
+8153,32017,Who will win the 2028 Democratic presidential nomination? - Ruben Gallego,2025-11-14T03:53:41.0657081,YES,0.02
+8153,32017,Who will win the 2028 Democratic presidential nomination? - Ruben Gallego,2025-11-14T03:53:41.0657081,NO,0.99
+8153,32589,Who will win the 2028 Democratic presidential nomination? - Elissa Slotkin,2025-11-14T03:53:41.0657081,YES,0.01
+8153,32589,Who will win the 2028 Democratic presidential nomination? - Elissa Slotkin,2025-11-14T03:53:41.0657081,NO,
+8155,31948,Which party will control the Senate after the 2026 election? - Republican,2025-11-14T03:53:41.0657081,YES,0.7
+8155,31948,Which party will control the Senate after the 2026 election? - Republican,2025-11-14T03:53:41.0657081,NO,0.31
+8155,31947,Which party will control the Senate after the 2026 election? - Democratic,2025-11-14T03:53:41.0657081,YES,0.31
+8155,31947,Which party will control the Senate after the 2026 election? - Democratic,2025-11-14T03:53:41.0657081,NO,0.7
+8156,31950,Which party will win the 2026 US Senate election in Georgia? - Democratic,2025-11-14T03:53:41.0657081,YES,0.71
+8156,31950,Which party will win the 2026 US Senate election in Georgia? - Democratic,2025-11-14T03:53:41.0657081,NO,0.31
+8156,31949,Which party will win the 2026 US Senate election in Georgia? - Republican,2025-11-14T03:53:41.0657081,YES,0.33
+8156,31949,Which party will win the 2026 US Senate election in Georgia? - Republican,2025-11-14T03:53:41.0657081,NO,0.68
+8157,31951,Which party will win the House in the 2026 election? - Democratic,2025-11-14T03:53:41.0657081,YES,0.7
+8157,31951,Which party will win the House in the 2026 election? - Democratic,2025-11-14T03:53:41.0657081,NO,0.31
+8157,31952,Which party will win the House in the 2026 election? - Republican,2025-11-14T03:53:41.0657081,YES,0.32
+8157,31952,Which party will win the House in the 2026 election? - Republican,2025-11-14T03:53:41.0657081,NO,0.69
+8158,31954,Which party will win the 2026 US Senate election in Michigan? - Democratic,2025-11-14T03:53:41.0657081,YES,0.78
+8158,31954,Which party will win the 2026 US Senate election in Michigan? - Democratic,2025-11-14T03:53:41.0657081,NO,0.29
+8158,31953,Which party will win the 2026 US Senate election in Michigan? - Republican,2025-11-14T03:53:41.0657081,YES,0.26
+8158,31953,Which party will win the 2026 US Senate election in Michigan? - Republican,2025-11-14T03:53:41.0657081,NO,0.76
+8159,31956,Which party will win the 2026 US Senate election in Maine? - Democratic,2025-11-14T03:53:41.0657081,YES,0.66
+8159,31956,Which party will win the 2026 US Senate election in Maine? - Democratic,2025-11-14T03:53:41.0657081,NO,0.35
+8159,31955,Which party will win the 2026 US Senate election in Maine? - Republican,2025-11-14T03:53:41.0657081,YES,0.41
+8159,31955,Which party will win the 2026 US Senate election in Maine? - Republican,2025-11-14T03:53:41.0657081,NO,0.64
+8160,31958,Which party will win the 2026 US Senate election in North Carolina? - Democratic,2025-11-14T03:53:41.0657081,YES,0.69
+8160,31958,Which party will win the 2026 US Senate election in North Carolina? - Democratic,2025-11-14T03:53:41.0657081,NO,0.32
+8160,31957,Which party will win the 2026 US Senate election in North Carolina? - Republican,2025-11-14T03:53:41.0657081,YES,0.33
+8160,31957,Which party will win the 2026 US Senate election in North Carolina? - Republican,2025-11-14T03:53:41.0657081,NO,0.68
+8161,31960,Which party will win the 2026 US Senate election in New Hampshire? - Democratic,2025-11-14T03:53:41.0657081,YES,0.78
+8161,31960,Which party will win the 2026 US Senate election in New Hampshire? - Democratic,2025-11-14T03:53:41.0657081,NO,0.23
+8161,31959,Which party will win the 2026 US Senate election in New Hampshire? - Republican,2025-11-14T03:53:41.0657081,YES,0.25
+8161,31959,Which party will win the 2026 US Senate election in New Hampshire? - Republican,2025-11-14T03:53:41.0657081,NO,0.77
+8162,31962,Which party will win the 2026 US Senate election in Minnesota? - Democratic,2025-11-14T03:53:41.0657081,YES,0.91
+8162,31962,Which party will win the 2026 US Senate election in Minnesota? - Democratic,2025-11-14T03:53:41.0657081,NO,0.11
+8162,31961,Which party will win the 2026 US Senate election in Minnesota? - Republican,2025-11-14T03:53:41.0657081,YES,0.14
+8162,31961,Which party will win the 2026 US Senate election in Minnesota? - Republican,2025-11-14T03:53:41.0657081,NO,0.87
+8163,31964,How many Senate seats will the GOP control after the 2026 midterms? - 47 or fewer,2025-11-14T03:53:41.0657081,YES,0.04
+8163,31964,How many Senate seats will the GOP control after the 2026 midterms? - 47 or fewer,2025-11-14T03:53:41.0657081,NO,0.97
+8163,31968,How many Senate seats will the GOP control after the 2026 midterms? - 48,2025-11-14T03:53:41.0657081,YES,0.06
+8163,31968,How many Senate seats will the GOP control after the 2026 midterms? - 48,2025-11-14T03:53:41.0657081,NO,0.95
+8163,31969,How many Senate seats will the GOP control after the 2026 midterms? - 49,2025-11-14T03:53:41.0657081,YES,0.14
+8163,31969,How many Senate seats will the GOP control after the 2026 midterms? - 49,2025-11-14T03:53:41.0657081,NO,0.87
+8163,31965,How many Senate seats will the GOP control after the 2026 midterms? - 50,2025-11-14T03:53:41.0657081,YES,0.17
+8163,31965,How many Senate seats will the GOP control after the 2026 midterms? - 50,2025-11-14T03:53:41.0657081,NO,0.84
+8163,31970,How many Senate seats will the GOP control after the 2026 midterms? - 51,2025-11-14T03:53:41.0657081,YES,0.2
+8163,31970,How many Senate seats will the GOP control after the 2026 midterms? - 51,2025-11-14T03:53:41.0657081,NO,0.81
+8163,31973,How many Senate seats will the GOP control after the 2026 midterms? - 52,2025-11-14T03:53:41.0657081,YES,0.2
+8163,31973,How many Senate seats will the GOP control after the 2026 midterms? - 52,2025-11-14T03:53:41.0657081,NO,0.81
+8163,31966,How many Senate seats will the GOP control after the 2026 midterms? - 53,2025-11-14T03:53:41.0657081,YES,0.12
+8163,31966,How many Senate seats will the GOP control after the 2026 midterms? - 53,2025-11-14T03:53:41.0657081,NO,0.89
+8163,31972,How many Senate seats will the GOP control after the 2026 midterms? - 54,2025-11-14T03:53:41.0657081,YES,0.07
+8163,31972,How many Senate seats will the GOP control after the 2026 midterms? - 54,2025-11-14T03:53:41.0657081,NO,0.94
+8163,31967,How many Senate seats will the GOP control after the 2026 midterms? - 55,2025-11-14T03:53:41.0657081,YES,0.04
+8163,31967,How many Senate seats will the GOP control after the 2026 midterms? - 55,2025-11-14T03:53:41.0657081,NO,0.97
+8163,31963,How many Senate seats will the GOP control after the 2026 midterms? - 56,2025-11-14T03:53:41.0657081,YES,0.04
+8163,31963,How many Senate seats will the GOP control after the 2026 midterms? - 56,2025-11-14T03:53:41.0657081,NO,0.97
+8163,31971,How many Senate seats will the GOP control after the 2026 midterms? - 57 or more,2025-11-14T03:53:41.0657081,YES,0.04
+8163,31971,How many Senate seats will the GOP control after the 2026 midterms? - 57 or more,2025-11-14T03:53:41.0657081,NO,0.97
+8165,31978,Who will win the 2026 Texas Republican Senate nomination? - John Cornyn,2025-11-14T03:53:41.0657081,YES,0.46
+8165,31978,Who will win the 2026 Texas Republican Senate nomination? - John Cornyn,2025-11-14T03:53:41.0657081,NO,0.58
+8165,31979,Who will win the 2026 Texas Republican Senate nomination? - Ken Paxton,2025-11-14T03:53:41.0657081,YES,0.46
+8165,31979,Who will win the 2026 Texas Republican Senate nomination? - Ken Paxton,2025-11-14T03:53:41.0657081,NO,0.57
+8165,31980,Who will win the 2026 Texas Republican Senate nomination? - Wesley Hunt,2025-11-14T03:53:41.0657081,YES,0.17
+8165,31980,Who will win the 2026 Texas Republican Senate nomination? - Wesley Hunt,2025-11-14T03:53:41.0657081,NO,0.86
+8165,31981,Who will win the 2026 Texas Republican Senate nomination? - Ronny Jackson,2025-11-14T03:53:41.0657081,YES,0.01
+8165,31981,Who will win the 2026 Texas Republican Senate nomination? - Ronny Jackson,2025-11-14T03:53:41.0657081,NO,
+8166,31985,Who will win the 2026 gubernatorial election in California? - Katie Porter,2025-11-14T03:53:41.0657081,YES,0.3
+8166,31985,Who will win the 2026 gubernatorial election in California? - Katie Porter,2025-11-14T03:53:41.0657081,NO,0.75
+8166,31987,Who will win the 2026 gubernatorial election in California? - Rick Caruso,2025-11-14T03:53:41.0657081,YES,0.11
+8166,31987,Who will win the 2026 gubernatorial election in California? - Rick Caruso,2025-11-14T03:53:41.0657081,NO,0.91
+8166,31989,Who will win the 2026 gubernatorial election in California? - Antonio Villaraigosa,2025-11-14T03:53:41.0657081,YES,0.09
+8166,31989,Who will win the 2026 gubernatorial election in California? - Antonio Villaraigosa,2025-11-14T03:53:41.0657081,NO,0.92
+8166,31984,Who will win the 2026 gubernatorial election in California? - Xavier Becerra,2025-11-14T03:53:41.0657081,YES,0.07
+8166,31984,Who will win the 2026 gubernatorial election in California? - Xavier Becerra,2025-11-14T03:53:41.0657081,NO,0.94
+8166,31986,Who will win the 2026 gubernatorial election in California? - Steve Hilton,2025-11-14T03:53:41.0657081,YES,0.04
+8166,31986,Who will win the 2026 gubernatorial election in California? - Steve Hilton,2025-11-14T03:53:41.0657081,NO,0.98
+8166,32681,Who will win the 2026 gubernatorial election in California? - Tom Steyer,2025-11-14T03:53:41.0657081,YES,0.03
+8166,32681,Who will win the 2026 gubernatorial election in California? - Tom Steyer,2025-11-14T03:53:41.0657081,NO,0.98
+8166,32684,Who will win the 2026 gubernatorial election in California? - Chad Bianco,2025-11-14T03:53:41.0657081,YES,0.03
+8166,32684,Who will win the 2026 gubernatorial election in California? - Chad Bianco,2025-11-14T03:53:41.0657081,NO,0.98
+8166,31982,Who will win the 2026 gubernatorial election in California? - Kamala Harris,2025-11-14T03:53:41.0657081,YES,0.02
+8166,31982,Who will win the 2026 gubernatorial election in California? - Kamala Harris,2025-11-14T03:53:41.0657081,NO,0.99
+8166,31983,Who will win the 2026 gubernatorial election in California? - Toni Atkins,2025-11-14T03:53:41.0657081,YES,0.01
+8166,31983,Who will win the 2026 gubernatorial election in California? - Toni Atkins,2025-11-14T03:53:41.0657081,NO,
+8166,31988,Who will win the 2026 gubernatorial election in California? - Eleni Kounalakis,2025-11-14T03:53:41.0657081,YES,0.01
+8166,31988,Who will win the 2026 gubernatorial election in California? - Eleni Kounalakis,2025-11-14T03:53:41.0657081,NO,
+8166,32248,Who will win the 2026 gubernatorial election in California? - Ché Ahn,2025-11-14T03:53:41.0657081,YES,0.02
+8166,32248,Who will win the 2026 gubernatorial election in California? - Ché Ahn,2025-11-14T03:53:41.0657081,NO,0.99
+8166,32386,Who will win the 2026 gubernatorial election in California? - Alex Padilla,2025-11-14T03:53:41.0657081,YES,0.01
+8166,32386,Who will win the 2026 gubernatorial election in California? - Alex Padilla,2025-11-14T03:53:41.0657081,NO,
+8167,31991,Who will win the 2026 Michigan Democratic Senate nomination? - Mallory McMorrow,2025-11-14T03:53:41.0657081,YES,0.45
+8167,31991,Who will win the 2026 Michigan Democratic Senate nomination? - Mallory McMorrow,2025-11-14T03:53:41.0657081,NO,0.57
+8167,31990,Who will win the 2026 Michigan Democratic Senate nomination? - Abdul El-Sayed,2025-11-14T03:53:41.0657081,YES,0.39
+8167,31990,Who will win the 2026 Michigan Democratic Senate nomination? - Abdul El-Sayed,2025-11-14T03:53:41.0657081,NO,0.65
+8167,31992,Who will win the 2026 Michigan Democratic Senate nomination? - Haley Stevens,2025-11-14T03:53:41.0657081,YES,0.19
+8167,31992,Who will win the 2026 Michigan Democratic Senate nomination? - Haley Stevens,2025-11-14T03:53:41.0657081,NO,0.84
+8167,31993,Who will win the 2026 Michigan Democratic Senate nomination? - Dana Nessel,2025-11-14T03:53:41.0657081,YES,0.01
+8167,31993,Who will win the 2026 Michigan Democratic Senate nomination? - Dana Nessel,2025-11-14T03:53:41.0657081,NO,
+8167,31994,Who will win the 2026 Michigan Democratic Senate nomination? - Rashida Tlaib,2025-11-14T03:53:41.0657081,YES,0.01
+8167,31994,Who will win the 2026 Michigan Democratic Senate nomination? - Rashida Tlaib,2025-11-14T03:53:41.0657081,NO,
+8169,32206,Who will win the 2026 North Carolina Republican Senate nomination? - Michael Whatley,2025-11-14T03:53:41.0657081,YES,0.97
+8169,32206,Who will win the 2026 North Carolina Republican Senate nomination? - Michael Whatley,2025-11-14T03:53:41.0657081,NO,0.07
+8169,31998,Who will win the 2026 North Carolina Republican Senate nomination? - Lara Trump,2025-11-14T03:53:41.0657081,YES,0.01
+8169,31998,Who will win the 2026 North Carolina Republican Senate nomination? - Lara Trump,2025-11-14T03:53:41.0657081,NO,
+8169,31999,Who will win the 2026 North Carolina Republican Senate nomination? - Brad Knott,2025-11-14T03:53:41.0657081,YES,0.01
+8169,31999,Who will win the 2026 North Carolina Republican Senate nomination? - Brad Knott,2025-11-14T03:53:41.0657081,NO,
+8169,32000,Who will win the 2026 North Carolina Republican Senate nomination? - Phil Berger,2025-11-14T03:53:41.0657081,YES,0.01
+8169,32000,Who will win the 2026 North Carolina Republican Senate nomination? - Phil Berger,2025-11-14T03:53:41.0657081,NO,
+8169,32001,Who will win the 2026 North Carolina Republican Senate nomination? - Dan Bishop,2025-11-14T03:53:41.0657081,YES,0.01
+8169,32001,Who will win the 2026 North Carolina Republican Senate nomination? - Dan Bishop,2025-11-14T03:53:41.0657081,NO,
+8169,32002,Who will win the 2026 North Carolina Republican Senate nomination? - Pat Harrigan,2025-11-14T03:53:41.0657081,YES,0.01
+8169,32002,Who will win the 2026 North Carolina Republican Senate nomination? - Pat Harrigan,2025-11-14T03:53:41.0657081,NO,
+8169,32003,Who will win the 2026 North Carolina Republican Senate nomination? - Destin Hall,2025-11-14T03:53:41.0657081,YES,0.01
+8169,32003,Who will win the 2026 North Carolina Republican Senate nomination? - Destin Hall,2025-11-14T03:53:41.0657081,NO,
+8169,32004,Who will win the 2026 North Carolina Republican Senate nomination? - George Holding,2025-11-14T03:53:41.0657081,YES,0.01
+8169,32004,Who will win the 2026 North Carolina Republican Senate nomination? - George Holding,2025-11-14T03:53:41.0657081,NO,
+8169,32005,Who will win the 2026 North Carolina Republican Senate nomination? - Richard Hudson,2025-11-14T03:53:41.0657081,YES,0.01
+8169,32005,Who will win the 2026 North Carolina Republican Senate nomination? - Richard Hudson,2025-11-14T03:53:41.0657081,NO,
+8169,32006,Who will win the 2026 North Carolina Republican Senate nomination? - Addison McDowell,2025-11-14T03:53:41.0657081,YES,0.01
+8169,32006,Who will win the 2026 North Carolina Republican Senate nomination? - Addison McDowell,2025-11-14T03:53:41.0657081,NO,
+8169,32007,Who will win the 2026 North Carolina Republican Senate nomination? - Tim Moore,2025-11-14T03:53:41.0657081,YES,0.01
+8169,32007,Who will win the 2026 North Carolina Republican Senate nomination? - Tim Moore,2025-11-14T03:53:41.0657081,NO,
+8169,32008,Who will win the 2026 North Carolina Republican Senate nomination? - Greg Murphy,2025-11-14T03:53:41.0657081,YES,0.01
+8169,32008,Who will win the 2026 North Carolina Republican Senate nomination? - Greg Murphy,2025-11-14T03:53:41.0657081,NO,
+8169,32009,Who will win the 2026 North Carolina Republican Senate nomination? - Mark Robinson,2025-11-14T03:53:41.0657081,YES,0.01
+8169,32009,Who will win the 2026 North Carolina Republican Senate nomination? - Mark Robinson,2025-11-14T03:53:41.0657081,NO,
+8170,32011,Who will win the 2026 North Carolina Democratic Senate nomination? - Roy Cooper,2025-11-14T03:53:41.0657081,YES,0.99
+8170,32011,Who will win the 2026 North Carolina Democratic Senate nomination? - Roy Cooper,2025-11-14T03:53:41.0657081,NO,0.04
+8170,32010,Who will win the 2026 North Carolina Democratic Senate nomination? - Wiley Nickel,2025-11-14T03:53:41.0657081,YES,0.01
+8170,32010,Who will win the 2026 North Carolina Democratic Senate nomination? - Wiley Nickel,2025-11-14T03:53:41.0657081,NO,
+8170,32012,Who will win the 2026 North Carolina Democratic Senate nomination? - Alma Adams,2025-11-14T03:53:41.0657081,YES,0.02
+8170,32012,Who will win the 2026 North Carolina Democratic Senate nomination? - Alma Adams,2025-11-14T03:53:41.0657081,NO,
+8170,32013,Who will win the 2026 North Carolina Democratic Senate nomination? - Sydney Batch,2025-11-14T03:53:41.0657081,YES,0.01
+8170,32013,Who will win the 2026 North Carolina Democratic Senate nomination? - Sydney Batch,2025-11-14T03:53:41.0657081,NO,
+8170,32014,Who will win the 2026 North Carolina Democratic Senate nomination? - Jeff Jackson,2025-11-14T03:53:41.0657081,YES,0.01
+8170,32014,Who will win the 2026 North Carolina Democratic Senate nomination? - Jeff Jackson,2025-11-14T03:53:41.0657081,NO,
+8171,32018,Who will win the 2028 US presidential election? - JD Vance,2025-11-14T03:53:41.0657081,YES,0.28
+8171,32018,Who will win the 2028 US presidential election? - JD Vance,2025-11-14T03:53:41.0657081,NO,0.73
+8171,32023,Who will win the 2028 US presidential election? - Gavin Newsom,2025-11-14T03:53:41.0657081,YES,0.21
+8171,32023,Who will win the 2028 US presidential election? - Gavin Newsom,2025-11-14T03:53:41.0657081,NO,0.8
+8171,32019,Who will win the 2028 US presidential election? - A. Ocasio-Cortez,2025-11-14T03:53:41.0657081,YES,0.08
+8171,32019,Who will win the 2028 US presidential election? - A. Ocasio-Cortez,2025-11-14T03:53:41.0657081,NO,0.93
+8171,32020,Who will win the 2028 US presidential election? - Josh Shapiro,2025-11-14T03:53:41.0657081,YES,0.04
+8171,32020,Who will win the 2028 US presidential election? - Josh Shapiro,2025-11-14T03:53:41.0657081,NO,0.97
+8171,32022,Who will win the 2028 US presidential election? - Pete Buttigieg,2025-11-14T03:53:41.0657081,YES,0.05
+8171,32022,Who will win the 2028 US presidential election? - Pete Buttigieg,2025-11-14T03:53:41.0657081,NO,0.96
+8171,32024,Who will win the 2028 US presidential election? - Marco Rubio,2025-11-14T03:53:41.0657081,YES,0.05
+8171,32024,Who will win the 2028 US presidential election? - Marco Rubio,2025-11-14T03:53:41.0657081,NO,0.96
+8171,32066,Who will win the 2028 US presidential election? - Donald Trump,2025-11-14T03:53:41.0657081,YES,0.05
+8171,32066,Who will win the 2028 US presidential election? - Donald Trump,2025-11-14T03:53:41.0657081,NO,0.96
+8171,32026,Who will win the 2028 US presidential election? - Gretchen Whitmer,2025-11-14T03:53:41.0657081,YES,0.04
+8171,32026,Who will win the 2028 US presidential election? - Gretchen Whitmer,2025-11-14T03:53:41.0657081,NO,0.97
+8171,32021,Who will win the 2028 US presidential election? - Kamala Harris,2025-11-14T03:53:41.0657081,YES,0.03
+8171,32021,Who will win the 2028 US presidential election? - Kamala Harris,2025-11-14T03:53:41.0657081,NO,0.98
+8171,32025,Who will win the 2028 US presidential election? - Tulsi Gabbard,2025-11-14T03:53:41.0657081,YES,0.02
+8171,32025,Who will win the 2028 US presidential election? - Tulsi Gabbard,2025-11-14T03:53:41.0657081,NO,0.99
+8172,32027,Which party will win the 2026 US Senate election in Nebraska? - Republican,2025-11-14T03:53:41.0657081,YES,0.77
+8172,32027,Which party will win the 2026 US Senate election in Nebraska? - Republican,2025-11-14T03:53:41.0657081,NO,0.27
+8172,32029,Which party will win the 2026 US Senate election in Nebraska? - Independent,2025-11-14T03:53:41.0657081,YES,0.26
+8172,32029,Which party will win the 2026 US Senate election in Nebraska? - Independent,2025-11-14T03:53:41.0657081,NO,0.75
+8172,32028,Which party will win the 2026 US Senate election in Nebraska? - Democratic,2025-11-14T03:53:41.0657081,YES,0.02
+8172,32028,Which party will win the 2026 US Senate election in Nebraska? - Democratic,2025-11-14T03:53:41.0657081,NO,
+8173,32030,Which party will win the 2026 US Senate election in Texas? - Republican,2025-11-14T03:53:41.0657081,YES,0.8
+8173,32030,Which party will win the 2026 US Senate election in Texas? - Republican,2025-11-14T03:53:41.0657081,NO,0.22
+8173,32031,Which party will win the 2026 US Senate election in Texas? - Democratic,2025-11-14T03:53:41.0657081,YES,0.25
+8173,32031,Which party will win the 2026 US Senate election in Texas? - Democratic,2025-11-14T03:53:41.0657081,NO,0.77
+8174,32033,Which party will win the 2026 US Senate election in Virginia? - Democratic,2025-11-14T03:53:41.0657081,YES,0.93
+8174,32033,Which party will win the 2026 US Senate election in Virginia? - Democratic,2025-11-14T03:53:41.0657081,NO,0.09
+8174,32032,Which party will win the 2026 US Senate election in Virginia? - Republican,2025-11-14T03:53:41.0657081,YES,0.11
+8174,32032,Which party will win the 2026 US Senate election in Virginia? - Republican,2025-11-14T03:53:41.0657081,NO,0.91
+8175,32034,Which party will win the 2026 US Senate special election in Ohio? - Republican,2025-11-14T03:53:41.0657081,YES,0.69
+8175,32034,Which party will win the 2026 US Senate special election in Ohio? - Republican,2025-11-14T03:53:41.0657081,NO,0.33
+8175,32035,Which party will win the 2026 US Senate special election in Ohio? - Democratic,2025-11-14T03:53:41.0657081,YES,0.37
+8175,32035,Which party will win the 2026 US Senate special election in Ohio? - Democratic,2025-11-14T03:53:41.0657081,NO,0.64
+8177,32045,Which party will win the 2026 US House election in Maine's 2nd District? - Republican,2025-11-14T03:53:41.0657081,YES,0.67
+8177,32045,Which party will win the 2026 US House election in Maine's 2nd District? - Republican,2025-11-14T03:53:41.0657081,NO,0.57
+8177,32046,Which party will win the 2026 US House election in Maine's 2nd District? - Democratic,2025-11-14T03:53:41.0657081,YES,0.56
+8177,32046,Which party will win the 2026 US House election in Maine's 2nd District? - Democratic,2025-11-14T03:53:41.0657081,NO,0.92
+8178,32050,Who will win the 2026 Georgia Republican Senate nomination? - Mike Collins,2025-11-14T03:53:41.0657081,YES,0.69
+8178,32050,Who will win the 2026 Georgia Republican Senate nomination? - Mike Collins,2025-11-14T03:53:41.0657081,NO,0.43
+8178,32220,Who will win the 2026 Georgia Republican Senate nomination? - Derek Dooley,2025-11-14T03:53:41.0657081,YES,0.31
+8178,32220,Who will win the 2026 Georgia Republican Senate nomination? - Derek Dooley,2025-11-14T03:53:41.0657081,NO,0.83
+8178,32047,Who will win the 2026 Georgia Republican Senate nomination? - Buddy Carter,2025-11-14T03:53:41.0657081,YES,0.15
+8178,32047,Who will win the 2026 Georgia Republican Senate nomination? - Buddy Carter,2025-11-14T03:53:41.0657081,NO,0.86
+8178,32053,Who will win the 2026 Georgia Republican Senate nomination? - Doug Collins,2025-11-14T03:53:41.0657081,YES,0.04
+8178,32053,Who will win the 2026 Georgia Republican Senate nomination? - Doug Collins,2025-11-14T03:53:41.0657081,NO,0.97
+8178,32048,Who will win the 2026 Georgia Republican Senate nomination? - John King,2025-11-14T03:53:41.0657081,YES,0.02
+8178,32048,Who will win the 2026 Georgia Republican Senate nomination? - John King,2025-11-14T03:53:41.0657081,NO,0.99
+8178,32049,Who will win the 2026 Georgia Republican Senate nomination? - Rick Allen,2025-11-14T03:53:41.0657081,YES,0.02
+8178,32049,Who will win the 2026 Georgia Republican Senate nomination? - Rick Allen,2025-11-14T03:53:41.0657081,NO,0.99
+8178,32051,Who will win the 2026 Georgia Republican Senate nomination? - Tyler Harper,2025-11-14T03:53:41.0657081,YES,0.02
+8178,32051,Who will win the 2026 Georgia Republican Senate nomination? - Tyler Harper,2025-11-14T03:53:41.0657081,NO,0.99
+8178,32052,Who will win the 2026 Georgia Republican Senate nomination? - Rich McCormick,2025-11-14T03:53:41.0657081,YES,0.02
+8178,32052,Who will win the 2026 Georgia Republican Senate nomination? - Rich McCormick,2025-11-14T03:53:41.0657081,NO,0.99
+8178,32054,Who will win the 2026 Georgia Republican Senate nomination? - Brian Jack,2025-11-14T03:53:41.0657081,YES,0.02
+8178,32054,Who will win the 2026 Georgia Republican Senate nomination? - Brian Jack,2025-11-14T03:53:41.0657081,NO,0.99
+8178,32055,Who will win the 2026 Georgia Republican Senate nomination? - Brad Raffensperger,2025-11-14T03:53:41.0657081,YES,0.02
+8178,32055,Who will win the 2026 Georgia Republican Senate nomination? - Brad Raffensperger,2025-11-14T03:53:41.0657081,NO,0.99
+8179,32056,Who will win the 2026 Michigan Republican Senate nomination? - Mike Rogers,2025-11-14T03:53:41.0657081,YES,0.93
+8179,32056,Who will win the 2026 Michigan Republican Senate nomination? - Mike Rogers,2025-11-14T03:53:41.0657081,NO,0.08
+8179,32058,Who will win the 2026 Michigan Republican Senate nomination? - Ronna McDaniel,2025-11-14T03:53:41.0657081,YES,0.04
+8179,32058,Who will win the 2026 Michigan Republican Senate nomination? - Ronna McDaniel,2025-11-14T03:53:41.0657081,NO,0.97
+8179,32057,Who will win the 2026 Michigan Republican Senate nomination? - Bill Huizenga,2025-11-14T03:53:41.0657081,YES,0.03
+8179,32057,Who will win the 2026 Michigan Republican Senate nomination? - Bill Huizenga,2025-11-14T03:53:41.0657081,NO,0.98
+8179,32059,Who will win the 2026 Michigan Republican Senate nomination? - Jonathan Lindsey,2025-11-14T03:53:41.0657081,YES,0.03
+8179,32059,Who will win the 2026 Michigan Republican Senate nomination? - Jonathan Lindsey,2025-11-14T03:53:41.0657081,NO,0.98
+8180,32064,Who will win the 2026 Texas Democratic Senate nomination? - James Talarico,2025-11-14T03:53:41.0657081,YES,0.48
+8180,32064,Who will win the 2026 Texas Democratic Senate nomination? - James Talarico,2025-11-14T03:53:41.0657081,NO,0.57
+8180,32065,Who will win the 2026 Texas Democratic Senate nomination? - Jasmine Crockett,2025-11-14T03:53:41.0657081,YES,0.35
+8180,32065,Who will win the 2026 Texas Democratic Senate nomination? - Jasmine Crockett,2025-11-14T03:53:41.0657081,NO,0.69
+8180,32060,Who will win the 2026 Texas Democratic Senate nomination? - Colin Allred,2025-11-14T03:53:41.0657081,YES,0.16
+8180,32060,Who will win the 2026 Texas Democratic Senate nomination? - Colin Allred,2025-11-14T03:53:41.0657081,NO,0.86
+8180,32063,Who will win the 2026 Texas Democratic Senate nomination? - Beto O'Rourke,2025-11-14T03:53:41.0657081,YES,0.07
+8180,32063,Who will win the 2026 Texas Democratic Senate nomination? - Beto O'Rourke,2025-11-14T03:53:41.0657081,NO,0.94
+8180,32061,Who will win the 2026 Texas Democratic Senate nomination? - Terry Virts,2025-11-14T03:53:41.0657081,YES,0.01
+8180,32061,Who will win the 2026 Texas Democratic Senate nomination? - Terry Virts,2025-11-14T03:53:41.0657081,NO,
+8180,32062,Who will win the 2026 Texas Democratic Senate nomination? - Joaquin Castro,2025-11-14T03:53:41.0657081,YES,0.01
+8180,32062,Who will win the 2026 Texas Democratic Senate nomination? - Joaquin Castro,2025-11-14T03:53:41.0657081,NO,
+8181,32068,Which party will win the 2028 US presidential election? - Democratic,2025-11-14T03:53:41.0657081,YES,0.52
+8181,32068,Which party will win the 2028 US presidential election? - Democratic,2025-11-14T03:53:41.0657081,NO,0.5
+8181,32067,Which party will win the 2028 US presidential election? - Republican,2025-11-14T03:53:41.0657081,YES,0.5
+8181,32067,Which party will win the 2028 US presidential election? - Republican,2025-11-14T03:53:41.0657081,NO,0.52
+8183,32080,Which party will win the 2026 US House election in Nebraska's 2nd District? - Democratic,2025-11-14T03:53:41.0657081,YES,0.84
+8183,32080,Which party will win the 2026 US House election in Nebraska's 2nd District? - Democratic,2025-11-14T03:53:41.0657081,NO,0.2
+8183,32079,Which party will win the 2026 US House election in Nebraska's 2nd District? - Republican,2025-11-14T03:53:41.0657081,YES,0.31
+8183,32079,Which party will win the 2026 US House election in Nebraska's 2nd District? - Republican,2025-11-14T03:53:41.0657081,NO,0.83
+8184,32081,Which party will win the 2026 US House race in North Carolina's 1st District? - Republican,2025-11-14T03:53:41.0657081,YES,0.85
+8184,32081,Which party will win the 2026 US House race in North Carolina's 1st District? - Republican,2025-11-14T03:53:41.0657081,NO,0.45
+8184,32082,Which party will win the 2026 US House race in North Carolina's 1st District? - Democratic,2025-11-14T03:53:41.0657081,YES,0.48
+8184,32082,Which party will win the 2026 US House race in North Carolina's 1st District? - Democratic,2025-11-14T03:53:41.0657081,NO,0.81
+8185,32084,Which party will win the 2026 US House election in New Mexico's 2nd District? - Democratic,2025-11-14T03:53:41.0657081,YES,0.85
+8185,32084,Which party will win the 2026 US House election in New Mexico's 2nd District? - Democratic,2025-11-14T03:53:41.0657081,NO,0.2
+8185,32083,Which party will win the 2026 US House election in New Mexico's 2nd District? - Republican,2025-11-14T03:53:41.0657081,YES,0.22
+8185,32083,Which party will win the 2026 US House election in New Mexico's 2nd District? - Republican,2025-11-14T03:53:41.0657081,NO,0.8
+8186,32086,Which party will win the 2026 US House election in New York's 4th District? - Democratic,2025-11-14T03:53:41.0657081,YES,0.75
+8186,32086,Which party will win the 2026 US House election in New York's 4th District? - Democratic,2025-11-14T03:53:41.0657081,NO,0.3
+8186,32085,Which party will win the 2026 US House election in New York's 4th District? - Republican,2025-11-14T03:53:41.0657081,YES,0.4
+8186,32085,Which party will win the 2026 US House election in New York's 4th District? - Republican,2025-11-14T03:53:41.0657081,NO,0.78
+8187,32088,Which party will win the 2026 US House election in New York's 17th District? - Democratic,2025-11-14T03:53:41.0657081,YES,0.75
+8187,32088,Which party will win the 2026 US House election in New York's 17th District? - Democratic,2025-11-14T03:53:41.0657081,NO,0.43
+8187,32087,Which party will win the 2026 US House election in New York's 17th District? - Republican,2025-11-14T03:53:41.0657081,YES,0.47
+8187,32087,Which party will win the 2026 US House election in New York's 17th District? - Republican,2025-11-14T03:53:41.0657081,NO,0.56
+8188,32090,Which party will win the 2026 US House election in Washington's 3rd District? - Democratic,2025-11-14T03:53:41.0657081,YES,0.75
+8188,32090,Which party will win the 2026 US House election in Washington's 3rd District? - Democratic,2025-11-14T03:53:41.0657081,NO,0.32
+8188,32089,Which party will win the 2026 US House election in Washington's 3rd District? - Republican,2025-11-14T03:53:41.0657081,YES,0.34
+8188,32089,Which party will win the 2026 US House election in Washington's 3rd District? - Republican,2025-11-14T03:53:41.0657081,NO,0.75
+8189,32092,Which party will win the 2026 US House election in Arizona's 1st District? - Democratic,2025-11-14T03:53:41.0657081,YES,0.79
+8189,32092,Which party will win the 2026 US House election in Arizona's 1st District? - Democratic,2025-11-14T03:53:41.0657081,NO,0.31
+8189,32091,Which party will win the 2026 US House election in Arizona's 1st District? - Republican,2025-11-14T03:53:41.0657081,YES,0.33
+8189,32091,Which party will win the 2026 US House election in Arizona's 1st District? - Republican,2025-11-14T03:53:41.0657081,NO,0.76
+8190,32094,Which party will win the 2026 US House election in Arizona's 6th District? - Democratic,2025-11-14T03:53:41.0657081,YES,0.78
+8190,32094,Which party will win the 2026 US House election in Arizona's 6th District? - Democratic,2025-11-14T03:53:41.0657081,NO,0.48
+8190,32093,Which party will win the 2026 US House election in Arizona's 6th District? - Republican,2025-11-14T03:53:41.0657081,YES,0.46
+8190,32093,Which party will win the 2026 US House election in Arizona's 6th District? - Republican,2025-11-14T03:53:41.0657081,NO,0.86
+8191,32096,Which party will win the 2026 US House election in Colorado's 8th District? - Democratic,2025-11-14T03:53:41.0657081,YES,0.94
+8191,32096,Which party will win the 2026 US House election in Colorado's 8th District? - Democratic,2025-11-14T03:53:41.0657081,NO,0.34
+8191,32095,Which party will win the 2026 US House election in Colorado's 8th District? - Republican,2025-11-14T03:53:41.0657081,YES,0.79
+8191,32095,Which party will win the 2026 US House election in Colorado's 8th District? - Republican,2025-11-14T03:53:41.0657081,NO,0.71
+8192,32098,Which party will win the 2026 US House election in Iowa's 1st District? - Democratic,2025-11-14T03:53:41.0657081,YES,0.6
+8192,32098,Which party will win the 2026 US House election in Iowa's 1st District? - Democratic,2025-11-14T03:53:41.0657081,NO,0.43
+8192,32097,Which party will win the 2026 US House election in Iowa's 1st District? - Republican,2025-11-14T03:53:41.0657081,YES,0.41
+8192,32097,Which party will win the 2026 US House election in Iowa's 1st District? - Republican,2025-11-14T03:53:41.0657081,NO,0.62
+8193,32100,Which party will win the 2026 US House election in Michigan's 7th District? - Democratic,2025-11-14T03:53:41.0657081,YES,0.73
+8193,32100,Which party will win the 2026 US House election in Michigan's 7th District? - Democratic,2025-11-14T03:53:41.0657081,NO,0.68
+8193,32099,Which party will win the 2026 US House election in Michigan's 7th District? - Republican,2025-11-14T03:53:41.0657081,YES,0.38
+8193,32099,Which party will win the 2026 US House election in Michigan's 7th District? - Republican,2025-11-14T03:53:41.0657081,NO,0.74
+8194,32102,Which party will win the 2026 US House election in Pennsylvania's 7th District? - Democratic,2025-11-14T03:53:41.0657081,YES,0.67
+8194,32102,Which party will win the 2026 US House election in Pennsylvania's 7th District? - Democratic,2025-11-14T03:53:41.0657081,NO,0.34
+8194,32101,Which party will win the 2026 US House election in Pennsylvania's 7th District? - Republican,2025-11-14T03:53:41.0657081,YES,0.43
+8194,32101,Which party will win the 2026 US House election in Pennsylvania's 7th District? - Republican,2025-11-14T03:53:41.0657081,NO,0.66
+8195,32104,Which party will win the 2026 US House election in Pennsylvania's 10th District? - Democratic,2025-11-14T03:53:41.0657081,YES,0.58
+8195,32104,Which party will win the 2026 US House election in Pennsylvania's 10th District? - Democratic,2025-11-14T03:53:41.0657081,NO,0.44
+8195,32103,Which party will win the 2026 US House election in Pennsylvania's 10th District? - Republican,2025-11-14T03:53:41.0657081,YES,0.59
+8195,32103,Which party will win the 2026 US House election in Pennsylvania's 10th District? - Republican,2025-11-14T03:53:41.0657081,NO,0.52
+8196,32106,Which party will win the 2026 US House election in Wisconsin's 3rd District? - Democratic,2025-11-14T03:53:41.0657081,YES,0.66
+8196,32106,Which party will win the 2026 US House election in Wisconsin's 3rd District? - Democratic,2025-11-14T03:53:41.0657081,NO,0.35
+8196,32105,Which party will win the 2026 US House election in Wisconsin's 3rd District? - Republican,2025-11-14T03:53:41.0657081,YES,0.39
+8196,32105,Which party will win the 2026 US House election in Wisconsin's 3rd District? - Republican,2025-11-14T03:53:41.0657081,NO,0.62
+8197,32109,Who will win the 2026 Iowa Republican Senate nomination? - Ashley Hinson,2025-11-14T03:53:41.0657081,YES,0.96
+8197,32109,Who will win the 2026 Iowa Republican Senate nomination? - Ashley Hinson,2025-11-14T03:53:41.0657081,NO,0.05
+8197,32107,Who will win the 2026 Iowa Republican Senate nomination? - Joni Ernst,2025-11-14T03:53:41.0657081,YES,0.02
+8197,32107,Who will win the 2026 Iowa Republican Senate nomination? - Joni Ernst,2025-11-14T03:53:41.0657081,NO,0.99
+8197,32108,Who will win the 2026 Iowa Republican Senate nomination? - Jim Carlin,2025-11-14T03:53:41.0657081,YES,0.02
+8197,32108,Who will win the 2026 Iowa Republican Senate nomination? - Jim Carlin,2025-11-14T03:53:41.0657081,NO,0.99
+8198,32111,Whom will the President nominate next as Chairman of the Federal Reserve? - Kevin Hassett,2025-11-14T03:53:41.0657081,YES,0.42
+8198,32111,Whom will the President nominate next as Chairman of the Federal Reserve? - Kevin Hassett,2025-11-14T03:53:41.0657081,NO,0.65
+8198,32112,Whom will the President nominate next as Chairman of the Federal Reserve? - Christopher Waller,2025-11-14T03:53:41.0657081,YES,0.14
+8198,32112,Whom will the President nominate next as Chairman of the Federal Reserve? - Christopher Waller,2025-11-14T03:53:41.0657081,NO,0.92
+8198,32283,Whom will the President nominate next as Chairman of the Federal Reserve? - Rick Rieder,2025-11-14T03:53:41.0657081,YES,0.12
+8198,32283,Whom will the President nominate next as Chairman of the Federal Reserve? - Rick Rieder,2025-11-14T03:53:41.0657081,NO,0.89
+8198,32113,Whom will the President nominate next as Chairman of the Federal Reserve? - Scott Bessent,2025-11-14T03:53:41.0657081,YES,0.11
+8198,32113,Whom will the President nominate next as Chairman of the Federal Reserve? - Scott Bessent,2025-11-14T03:53:41.0657081,NO,0.91
+8198,32110,Whom will the President nominate next as Chairman of the Federal Reserve? - Kevin Warsh,2025-11-14T03:53:41.0657081,YES,0.18
+8198,32110,Whom will the President nominate next as Chairman of the Federal Reserve? - Kevin Warsh,2025-11-14T03:53:41.0657081,NO,0.88
+8198,32114,Whom will the President nominate next as Chairman of the Federal Reserve? - Michelle Bowman,2025-11-14T03:53:41.0657081,YES,0.04
+8198,32114,Whom will the President nominate next as Chairman of the Federal Reserve? - Michelle Bowman,2025-11-14T03:53:41.0657081,NO,0.97
+8198,32259,Whom will the President nominate next as Chairman of the Federal Reserve? - Philip Jefferson,2025-11-14T03:53:41.0657081,YES,0.01
+8198,32259,Whom will the President nominate next as Chairman of the Federal Reserve? - Philip Jefferson,2025-11-14T03:53:41.0657081,NO,
+8198,32260,Whom will the President nominate next as Chairman of the Federal Reserve? - Lorie Logan,2025-11-14T03:53:41.0657081,YES,0.01
+8198,32260,Whom will the President nominate next as Chairman of the Federal Reserve? - Lorie Logan,2025-11-14T03:53:41.0657081,NO,
+8198,32281,Whom will the President nominate next as Chairman of the Federal Reserve? - David Zervos,2025-11-14T03:53:41.0657081,YES,0.01
+8198,32281,Whom will the President nominate next as Chairman of the Federal Reserve? - David Zervos,2025-11-14T03:53:41.0657081,NO,
+8198,32282,Whom will the President nominate next as Chairman of the Federal Reserve? - Larry Lindsey,2025-11-14T03:53:41.0657081,YES,0.01
+8198,32282,Whom will the President nominate next as Chairman of the Federal Reserve? - Larry Lindsey,2025-11-14T03:53:41.0657081,NO,
+8198,32284,Whom will the President nominate next as Chairman of the Federal Reserve? - Marc Sumerlin,2025-11-14T03:53:41.0657081,YES,0.01
+8198,32284,Whom will the President nominate next as Chairman of the Federal Reserve? - Marc Sumerlin,2025-11-14T03:53:41.0657081,NO,
+8198,32285,Whom will the President nominate next as Chairman of the Federal Reserve? - James Bullard,2025-11-14T03:53:41.0657081,YES,0.02
+8198,32285,Whom will the President nominate next as Chairman of the Federal Reserve? - James Bullard,2025-11-14T03:53:41.0657081,NO,
+8201,32128,Who will win the 2026 New York Republican gubernatorial nomination? - Elise Stefanik,2025-11-14T03:53:41.0657081,YES,0.93
+8201,32128,Who will win the 2026 New York Republican gubernatorial nomination? - Elise Stefanik,2025-11-14T03:53:41.0657081,NO,0.08
+8201,32127,Who will win the 2026 New York Republican gubernatorial nomination? - Mike Lawler,2025-11-14T03:53:41.0657081,YES,0.01
+8201,32127,Who will win the 2026 New York Republican gubernatorial nomination? - Mike Lawler,2025-11-14T03:53:41.0657081,NO,
+8202,32129,Who will win the 2026 Arizona Republican gubernatorial nomination? - Andy Biggs,2025-11-14T03:53:41.0657081,YES,0.75
+8202,32129,Who will win the 2026 Arizona Republican gubernatorial nomination? - Andy Biggs,2025-11-14T03:53:41.0657081,NO,0.34
+8202,32130,Who will win the 2026 Arizona Republican gubernatorial nomination? - Karrin Taylor Robson,2025-11-14T03:53:41.0657081,YES,0.16
+8202,32130,Who will win the 2026 Arizona Republican gubernatorial nomination? - Karrin Taylor Robson,2025-11-14T03:53:41.0657081,NO,0.96
+8202,32532,Who will win the 2026 Arizona Republican gubernatorial nomination? - David Schweikert,2025-11-14T03:53:41.0657081,YES,0.02
+8202,32532,Who will win the 2026 Arizona Republican gubernatorial nomination? - David Schweikert,2025-11-14T03:53:41.0657081,NO,
+8203,32132,Who will win the 2026 Georgia Republican gubernatorial nomination? - Burt Jones,2025-11-14T03:53:41.0657081,YES,0.9
+8203,32132,Who will win the 2026 Georgia Republican gubernatorial nomination? - Burt Jones,2025-11-14T03:53:41.0657081,NO,0.13
+8203,32131,Who will win the 2026 Georgia Republican gubernatorial nomination? - Chris Carr,2025-11-14T03:53:41.0657081,YES,0.14
+8203,32131,Who will win the 2026 Georgia Republican gubernatorial nomination? - Chris Carr,2025-11-14T03:53:41.0657081,NO,0.9
+8203,32455,Who will win the 2026 Georgia Republican gubernatorial nomination? - Brad Raffensperger,2025-11-14T03:53:41.0657081,YES,0.04
+8203,32455,Who will win the 2026 Georgia Republican gubernatorial nomination? - Brad Raffensperger,2025-11-14T03:53:41.0657081,NO,0.98
+8203,32133,Who will win the 2026 Georgia Republican gubernatorial nomination? - M. Taylor Greene,2025-11-14T03:53:41.0657081,YES,0.01
+8203,32133,Who will win the 2026 Georgia Republican gubernatorial nomination? - M. Taylor Greene,2025-11-14T03:53:41.0657081,NO,
+8204,32135,Who will win the 2026 Michigan Republican gubernatorial nomination? - John James,2025-11-14T03:53:41.0657081,YES,0.75
+8204,32135,Who will win the 2026 Michigan Republican gubernatorial nomination? - John James,2025-11-14T03:53:41.0657081,NO,0.26
+8204,32134,Who will win the 2026 Michigan Republican gubernatorial nomination? - Mike Cox,2025-11-14T03:53:41.0657081,YES,0.1
+8204,32134,Who will win the 2026 Michigan Republican gubernatorial nomination? - Mike Cox,2025-11-14T03:53:41.0657081,NO,0.93
+8204,32136,Who will win the 2026 Michigan Republican gubernatorial nomination? - Tom Leonard,2025-11-14T03:53:41.0657081,YES,0.04
+8204,32136,Who will win the 2026 Michigan Republican gubernatorial nomination? - Tom Leonard,2025-11-14T03:53:41.0657081,NO,0.98
+8204,32137,Who will win the 2026 Michigan Republican gubernatorial nomination? - Aric Nesbitt,2025-11-14T03:53:41.0657081,YES,0.13
+8204,32137,Who will win the 2026 Michigan Republican gubernatorial nomination? - Aric Nesbitt,2025-11-14T03:53:41.0657081,NO,0.98
+8205,32140,Who will win the 2026 Maine Republican gubernatorial nomination? - Robert Charles,2025-11-14T03:53:41.0657081,YES,0.88
+8205,32140,Who will win the 2026 Maine Republican gubernatorial nomination? - Robert Charles,2025-11-14T03:53:41.0657081,NO,0.92
+8205,32138,Who will win the 2026 Maine Republican gubernatorial nomination? - Rick Bennett,2025-11-14T03:53:41.0657081,YES,0.13
+8205,32138,Who will win the 2026 Maine Republican gubernatorial nomination? - Rick Bennett,2025-11-14T03:53:41.0657081,NO,0.91
+8205,32139,Who will win the 2026 Maine Republican gubernatorial nomination? - Jonathan Bush,2025-11-14T03:53:41.0657081,YES,0.9
+8205,32139,Who will win the 2026 Maine Republican gubernatorial nomination? - Jonathan Bush,2025-11-14T03:53:41.0657081,NO,0.91
+8205,32141,Who will win the 2026 Maine Republican gubernatorial nomination? - Laurel Libby,2025-11-14T03:53:41.0657081,YES,0.92
+8205,32141,Who will win the 2026 Maine Republican gubernatorial nomination? - Laurel Libby,2025-11-14T03:53:41.0657081,NO,0.93
+8205,32142,Who will win the 2026 Maine Republican gubernatorial nomination? - Garrett Mason,2025-11-14T03:53:41.0657081,YES,0.89
+8205,32142,Who will win the 2026 Maine Republican gubernatorial nomination? - Garrett Mason,2025-11-14T03:53:41.0657081,NO,0.94
+8205,32143,Who will win the 2026 Maine Republican gubernatorial nomination? - Shawn Moody,2025-11-14T03:53:41.0657081,YES,0.89
+8205,32143,Who will win the 2026 Maine Republican gubernatorial nomination? - Shawn Moody,2025-11-14T03:53:41.0657081,NO,0.95
+8205,32144,Who will win the 2026 Maine Republican gubernatorial nomination? - Bruce Poliquin,2025-11-14T03:53:41.0657081,YES,0.66
+8205,32144,Who will win the 2026 Maine Republican gubernatorial nomination? - Bruce Poliquin,2025-11-14T03:53:41.0657081,NO,0.97
+8206,32145,Who will win the 2026 Michigan Democratic gubernatorial nomination? - Jocelyn Benson,2025-11-14T03:53:41.0657081,YES,0.88
+8206,32145,Who will win the 2026 Michigan Democratic gubernatorial nomination? - Jocelyn Benson,2025-11-14T03:53:41.0657081,NO,0.13
+8206,32146,Who will win the 2026 Michigan Democratic gubernatorial nomination? - Garlin Gilchrist,2025-11-14T03:53:41.0657081,YES,0.1
+8206,32146,Who will win the 2026 Michigan Democratic gubernatorial nomination? - Garlin Gilchrist,2025-11-14T03:53:41.0657081,NO,0.95
+8207,32148,Who will win the 2026 Maine Democratic gubernatorial nomination? - Angus King III,2025-11-14T03:53:41.0657081,YES,0.47
+8207,32148,Who will win the 2026 Maine Democratic gubernatorial nomination? - Angus King III,2025-11-14T03:53:41.0657081,NO,0.7
+8207,32147,Who will win the 2026 Maine Democratic gubernatorial nomination? - Troy Jackson,2025-11-14T03:53:41.0657081,YES,0.34
+8207,32147,Who will win the 2026 Maine Democratic gubernatorial nomination? - Troy Jackson,2025-11-14T03:53:41.0657081,NO,0.75
+8207,32149,Who will win the 2026 Maine Democratic gubernatorial nomination? - Shenna Bellows,2025-11-14T03:53:41.0657081,YES,0.2
+8207,32149,Who will win the 2026 Maine Democratic gubernatorial nomination? - Shenna Bellows,2025-11-14T03:53:41.0657081,NO,0.84
+8208,32150,Will Kamala Harris announce a run for California governor in 2025? - Will Kamala Harris announce a run for California governor in 2025?,2025-11-14T03:53:41.0657081,YES,0.02
+8208,32150,Will Kamala Harris announce a run for California governor in 2025? - Will Kamala Harris announce a run for California governor in 2025?,2025-11-14T03:53:41.0657081,NO,0.99
+8211,32164,Which party will win the 2026 gubernatorial election in Arizona? - Democratic,2025-11-14T03:53:41.0657081,YES,0.66
+8211,32164,Which party will win the 2026 gubernatorial election in Arizona? - Democratic,2025-11-14T03:53:41.0657081,NO,0.35
+8211,32163,Which party will win the 2026 gubernatorial election in Arizona? - Republican,2025-11-14T03:53:41.0657081,YES,0.38
+8211,32163,Which party will win the 2026 gubernatorial election in Arizona? - Republican,2025-11-14T03:53:41.0657081,NO,0.64
+8212,32166,Which party will win the 2026 gubernatorial election in Michigan? - Democratic,2025-11-14T03:53:41.0657081,YES,0.71
+8212,32166,Which party will win the 2026 gubernatorial election in Michigan? - Democratic,2025-11-14T03:53:41.0657081,NO,0.33
+8212,32165,Which party will win the 2026 gubernatorial election in Michigan? - Republican,2025-11-14T03:53:41.0657081,YES,0.32
+8212,32165,Which party will win the 2026 gubernatorial election in Michigan? - Republican,2025-11-14T03:53:41.0657081,NO,0.72
+8213,32168,Which party will win the 2026 gubernatorial election in Wisconsin? - Democratic,2025-11-14T03:53:41.0657081,YES,0.67
+8213,32168,Which party will win the 2026 gubernatorial election in Wisconsin? - Democratic,2025-11-14T03:53:41.0657081,NO,0.39
+8213,32167,Which party will win the 2026 gubernatorial election in Wisconsin? - Republican,2025-11-14T03:53:41.0657081,YES,0.39
+8213,32167,Which party will win the 2026 gubernatorial election in Wisconsin? - Republican,2025-11-14T03:53:41.0657081,NO,0.63
+8214,32169,Which party will win the 2026 gubernatorial election in Kansas? - Republican,2025-11-14T03:53:41.0657081,YES,0.83
+8214,32169,Which party will win the 2026 gubernatorial election in Kansas? - Republican,2025-11-14T03:53:41.0657081,NO,0.21
+8214,32170,Which party will win the 2026 gubernatorial election in Kansas? - Democratic,2025-11-14T03:53:41.0657081,YES,0.22
+8214,32170,Which party will win the 2026 gubernatorial election in Kansas? - Democratic,2025-11-14T03:53:41.0657081,NO,0.8
+8215,32172,Which party will win the 2026 gubernatorial election in New York? - Democratic,2025-11-14T03:53:41.0657081,YES,0.85
+8215,32172,Which party will win the 2026 gubernatorial election in New York? - Democratic,2025-11-14T03:53:41.0657081,NO,0.16
+8215,32171,Which party will win the 2026 gubernatorial election in New York? - Republican,2025-11-14T03:53:41.0657081,YES,0.18
+8215,32171,Which party will win the 2026 gubernatorial election in New York? - Republican,2025-11-14T03:53:41.0657081,NO,0.83
+8217,32174,Who will win the 2026 New York Democratic gubernatorial nomination? - Kathy Hochul,2025-11-14T03:53:41.0657081,YES,0.88
+8217,32174,Who will win the 2026 New York Democratic gubernatorial nomination? - Kathy Hochul,2025-11-14T03:53:41.0657081,NO,0.15
+8217,32175,Who will win the 2026 New York Democratic gubernatorial nomination? - Antonio Delgado,2025-11-14T03:53:41.0657081,YES,0.12
+8217,32175,Who will win the 2026 New York Democratic gubernatorial nomination? - Antonio Delgado,2025-11-14T03:53:41.0657081,NO,0.89
+8222,32185,Will Ghislaine Maxwell testify publicly before Congress in 2025? - Will Ghislaine Maxwell testify publicly before Congress in 2025?,2025-11-14T03:53:41.0657081,YES,0.02
+8222,32185,Will Ghislaine Maxwell testify publicly before Congress in 2025? - Will Ghislaine Maxwell testify publicly before Congress in 2025?,2025-11-14T03:53:41.0657081,NO,0.99
+8223,32186,Will Jerome Powell leave office in 2025? - Will Jerome Powell leave office in 2025?,2025-11-14T03:53:41.0657081,YES,0.02
+8223,32186,Will Jerome Powell leave office in 2025? - Will Jerome Powell leave office in 2025?,2025-11-14T03:53:41.0657081,NO,0.99
+8224,32187,Will Dan Bongino leave office in 2025? - Will Dan Bongino leave office in 2025?,2025-11-14T03:53:41.0657081,YES,0.12
+8224,32187,Will Dan Bongino leave office in 2025? - Will Dan Bongino leave office in 2025?,2025-11-14T03:53:41.0657081,NO,0.92
+8225,32191,Who will win the 2025 Chilean presidential election? - José Antonio Kast,2025-11-14T03:53:41.0657081,YES,0.68
+8225,32191,Who will win the 2025 Chilean presidential election? - José Antonio Kast,2025-11-14T03:53:41.0657081,NO,0.36
+8225,32188,Who will win the 2025 Chilean presidential election? - Jeannette Jara,2025-11-14T03:53:41.0657081,YES,0.17
+8225,32188,Who will win the 2025 Chilean presidential election? - Jeannette Jara,2025-11-14T03:53:41.0657081,NO,0.85
+8225,32192,Who will win the 2025 Chilean presidential election? - Johannes Kaiser,2025-11-14T03:53:41.0657081,YES,0.14
+8225,32192,Who will win the 2025 Chilean presidential election? - Johannes Kaiser,2025-11-14T03:53:41.0657081,NO,0.88
+8225,32189,Who will win the 2025 Chilean presidential election? - Evelyn Matthei,2025-11-14T03:53:41.0657081,YES,0.03
+8225,32189,Who will win the 2025 Chilean presidential election? - Evelyn Matthei,2025-11-14T03:53:41.0657081,NO,0.99
+8225,32190,Who will win the 2025 Chilean presidential election? - Franco Parisi,2025-11-14T03:53:41.0657081,YES,0.02
+8225,32190,Who will win the 2025 Chilean presidential election? - Franco Parisi,2025-11-14T03:53:41.0657081,NO,0.99
+8226,32193,Will Pam Bondi leave office in 2025? - Will Pam Bondi leave office in 2025?,2025-11-14T03:53:41.0657081,YES,0.06
+8226,32193,Will Pam Bondi leave office in 2025? - Will Pam Bondi leave office in 2025?,2025-11-14T03:53:41.0657081,NO,0.96
+8227,32194,Will Kash Patel leave office in 2025? - Will Kash Patel leave office in 2025?,2025-11-14T03:53:41.0657081,YES,0.09
+8227,32194,Will Kash Patel leave office in 2025? - Will Kash Patel leave office in 2025?,2025-11-14T03:53:41.0657081,NO,0.95
+8228,32195,Which party will win the 2026 US Senate election in Florida? - Republican,2025-11-14T03:53:41.0657081,YES,0.88
+8228,32195,Which party will win the 2026 US Senate election in Florida? - Republican,2025-11-14T03:53:41.0657081,NO,0.15
+8228,32196,Which party will win the 2026 US Senate election in Florida? - Democratic,2025-11-14T03:53:41.0657081,YES,0.15
+8228,32196,Which party will win the 2026 US Senate election in Florida? - Democratic,2025-11-14T03:53:41.0657081,NO,0.87
+8230,32207,Who will win the 2026 Kentucky Republican Senate nomination? - Andy Barr,2025-11-14T03:53:41.0657081,YES,0.58
+8230,32207,Who will win the 2026 Kentucky Republican Senate nomination? - Andy Barr,2025-11-14T03:53:41.0657081,NO,0.61
+8230,32208,Who will win the 2026 Kentucky Republican Senate nomination? - Nate Morris,2025-11-14T03:53:41.0657081,YES,0.36
+8230,32208,Who will win the 2026 Kentucky Republican Senate nomination? - Nate Morris,2025-11-14T03:53:41.0657081,NO,0.83
+8230,32209,Who will win the 2026 Kentucky Republican Senate nomination? - Daniel Cameron,2025-11-14T03:53:41.0657081,YES,0.19
+8230,32209,Who will win the 2026 Kentucky Republican Senate nomination? - Daniel Cameron,2025-11-14T03:53:41.0657081,NO,0.82
+8230,32210,Who will win the 2026 Kentucky Republican Senate nomination? - Michael Faris,2025-11-14T03:53:41.0657081,YES,0.02
+8230,32210,Who will win the 2026 Kentucky Republican Senate nomination? - Michael Faris,2025-11-14T03:53:41.0657081,NO,0.99
+8233,32222,Who will win the 2026 South Carolina Republican gubernatorial nomination? - Pamela Evette,2025-11-14T03:53:41.0657081,YES,0.55
+8233,32222,Who will win the 2026 South Carolina Republican gubernatorial nomination? - Pamela Evette,2025-11-14T03:53:41.0657081,NO,0.51
+8233,32224,Who will win the 2026 South Carolina Republican gubernatorial nomination? - Nancy Mace,2025-11-14T03:53:41.0657081,YES,0.2
+8233,32224,Who will win the 2026 South Carolina Republican gubernatorial nomination? - Nancy Mace,2025-11-14T03:53:41.0657081,NO,0.81
+8233,32226,Who will win the 2026 South Carolina Republican gubernatorial nomination? - Alan Wilson,2025-11-14T03:53:41.0657081,YES,0.17
+8233,32226,Who will win the 2026 South Carolina Republican gubernatorial nomination? - Alan Wilson,2025-11-14T03:53:41.0657081,NO,0.84
+8233,32225,Who will win the 2026 South Carolina Republican gubernatorial nomination? - Ralph Norman,2025-11-14T03:53:41.0657081,YES,0.07
+8233,32225,Who will win the 2026 South Carolina Republican gubernatorial nomination? - Ralph Norman,2025-11-14T03:53:41.0657081,NO,0.94
+8233,32223,Who will win the 2026 South Carolina Republican gubernatorial nomination? - Josh Kimbrell,2025-11-14T03:53:41.0657081,YES,0.02
+8233,32223,Who will win the 2026 South Carolina Republican gubernatorial nomination? - Josh Kimbrell,2025-11-14T03:53:41.0657081,NO,0.99
+8237,32246,"How many states will redistrict by March 31, 2026? - 0 or 1",2025-11-14T03:53:41.0657081,YES,0.01
+8237,32246,"How many states will redistrict by March 31, 2026? - 0 or 1",2025-11-14T03:53:41.0657081,NO,
+8237,32243,"How many states will redistrict by March 31, 2026? - 2 or 3",2025-11-14T03:53:41.0657081,YES,0.01
+8237,32243,"How many states will redistrict by March 31, 2026? - 2 or 3",2025-11-14T03:53:41.0657081,NO,
+8237,32247,"How many states will redistrict by March 31, 2026? - 4 or 5",2025-11-14T03:53:41.0657081,YES,0.01
+8237,32247,"How many states will redistrict by March 31, 2026? - 4 or 5",2025-11-14T03:53:41.0657081,NO,
+8237,32245,"How many states will redistrict by March 31, 2026? - 6 or 7",2025-11-14T03:53:41.0657081,YES,0.15
+8237,32245,"How many states will redistrict by March 31, 2026? - 6 or 7",2025-11-14T03:53:41.0657081,NO,0.88
+8237,32244,"How many states will redistrict by March 31, 2026? - 8 or 9",2025-11-14T03:53:41.0657081,YES,0.37
+8237,32244,"How many states will redistrict by March 31, 2026? - 8 or 9",2025-11-14T03:53:41.0657081,NO,0.66
+8237,32249,"How many states will redistrict by March 31, 2026? - 10 or 11",2025-11-14T03:53:41.0657081,YES,0.34
+8237,32249,"How many states will redistrict by March 31, 2026? - 10 or 11",2025-11-14T03:53:41.0657081,NO,0.7
+8237,32250,"How many states will redistrict by March 31, 2026? - 12 or 13",2025-11-14T03:53:41.0657081,YES,0.08
+8237,32250,"How many states will redistrict by March 31, 2026? - 12 or 13",2025-11-14T03:53:41.0657081,NO,0.95
+8237,32251,"How many states will redistrict by March 31, 2026? - 14 or more",2025-11-14T03:53:41.0657081,YES,0.05
+8237,32251,"How many states will redistrict by March 31, 2026? - 14 or more",2025-11-14T03:53:41.0657081,NO,0.96
+8243,32287,Who will win the 2026 Minnesota Democratic Senate nomination? - Peggy Flanagan,2025-11-14T03:53:41.0657081,YES,0.68
+8243,32287,Who will win the 2026 Minnesota Democratic Senate nomination? - Peggy Flanagan,2025-11-14T03:53:41.0657081,NO,0.55
+8243,32286,Who will win the 2026 Minnesota Democratic Senate nomination? - Angie Craig,2025-11-14T03:53:41.0657081,YES,0.45
+8243,32286,Who will win the 2026 Minnesota Democratic Senate nomination? - Angie Craig,2025-11-14T03:53:41.0657081,NO,0.71
+8245,32302,Who will win the 2026 gubernatorial election in Alaska? - Bernadette Wilson,2025-11-14T03:53:41.0657081,YES,0.32
+8245,32302,Who will win the 2026 gubernatorial election in Alaska? - Bernadette Wilson,2025-11-14T03:53:41.0657081,NO,0.73
+8245,32311,Who will win the 2026 gubernatorial election in Alaska? - Mary Peltola,2025-11-14T03:53:41.0657081,YES,0.32
+8245,32311,Who will win the 2026 gubernatorial election in Alaska? - Mary Peltola,2025-11-14T03:53:41.0657081,NO,0.7
+8245,32299,Who will win the 2026 gubernatorial election in Alaska? - Nancy Dahlstrom,2025-11-14T03:53:41.0657081,YES,0.2
+8245,32299,Who will win the 2026 gubernatorial election in Alaska? - Nancy Dahlstrom,2025-11-14T03:53:41.0657081,NO,0.82
+8245,32301,Who will win the 2026 gubernatorial election in Alaska? - Tom Begich,2025-11-14T03:53:41.0657081,YES,0.13
+8245,32301,Who will win the 2026 gubernatorial election in Alaska? - Tom Begich,2025-11-14T03:53:41.0657081,NO,0.88
+8245,32298,Who will win the 2026 gubernatorial election in Alaska? - Click Bishop,2025-11-14T03:53:41.0657081,YES,0.1
+8245,32298,Who will win the 2026 gubernatorial election in Alaska? - Click Bishop,2025-11-14T03:53:41.0657081,NO,0.95
+8245,32312,Who will win the 2026 gubernatorial election in Alaska? - Shelley Hughes,2025-11-14T03:53:41.0657081,YES,0.15
+8245,32312,Who will win the 2026 gubernatorial election in Alaska? - Shelley Hughes,2025-11-14T03:53:41.0657081,NO,0.96
+8245,32300,Who will win the 2026 gubernatorial election in Alaska? - Lisa Murkowski,2025-11-14T03:53:41.0657081,YES,0.06
+8245,32300,Who will win the 2026 gubernatorial election in Alaska? - Lisa Murkowski,2025-11-14T03:53:41.0657081,NO,0.97
+8246,32303,Who will be the next Supreme Court nominee? - James Ho,2025-11-14T03:53:41.0657081,YES,0.19
+8246,32303,Who will be the next Supreme Court nominee? - James Ho,2025-11-14T03:53:41.0657081,NO,0.85
+8246,32307,Who will be the next Supreme Court nominee? - Andrew Oldham,2025-11-14T03:53:41.0657081,YES,0.15
+8246,32307,Who will be the next Supreme Court nominee? - Andrew Oldham,2025-11-14T03:53:41.0657081,NO,0.92
+8246,32309,Who will be the next Supreme Court nominee? - Emil Bove,2025-11-14T03:53:41.0657081,YES,0.19
+8246,32309,Who will be the next Supreme Court nominee? - Emil Bove,2025-11-14T03:53:41.0657081,NO,0.94
+8246,32306,Who will be the next Supreme Court nominee? - Kyle Duncan,2025-11-14T03:53:41.0657081,YES,0.11
+8246,32306,Who will be the next Supreme Court nominee? - Kyle Duncan,2025-11-14T03:53:41.0657081,NO,0.95
+8246,32308,Who will be the next Supreme Court nominee? - Aileen Cannon,2025-11-14T03:53:41.0657081,YES,0.09
+8246,32308,Who will be the next Supreme Court nominee? - Aileen Cannon,2025-11-14T03:53:41.0657081,NO,0.93
+8246,32310,Who will be the next Supreme Court nominee? - Mike Lee,2025-11-14T03:53:41.0657081,YES,0.04
+8246,32310,Who will be the next Supreme Court nominee? - Mike Lee,2025-11-14T03:53:41.0657081,NO,0.98
+8246,32305,Who will be the next Supreme Court nominee? - Neomi Rao,2025-11-14T03:53:41.0657081,YES,0.08
+8246,32305,Who will be the next Supreme Court nominee? - Neomi Rao,2025-11-14T03:53:41.0657081,NO,0.94
+8246,32304,Who will be the next Supreme Court nominee? - Amul Thapar,2025-11-14T03:53:41.0657081,YES,0.09
+8246,32304,Who will be the next Supreme Court nominee? - Amul Thapar,2025-11-14T03:53:41.0657081,NO,0.94
+8248,32323,Who will win the 2026 Tennessee Republican gubernatorial nomination? - Marsha Blackburn,2025-11-14T03:53:41.0657081,YES,0.96
+8248,32323,Who will win the 2026 Tennessee Republican gubernatorial nomination? - Marsha Blackburn,2025-11-14T03:53:41.0657081,NO,0.05
+8248,32324,Who will win the 2026 Tennessee Republican gubernatorial nomination? - John Rose,2025-11-14T03:53:41.0657081,YES,0.03
+8248,32324,Who will win the 2026 Tennessee Republican gubernatorial nomination? - John Rose,2025-11-14T03:53:41.0657081,NO,0.98
+8253,32352,Who will win the 2026 Illinois Democratic Senate nomination? - Raja Krishnamoorthi,2025-11-14T03:53:41.0657081,YES,0.83
+8253,32352,Who will win the 2026 Illinois Democratic Senate nomination? - Raja Krishnamoorthi,2025-11-14T03:53:41.0657081,NO,0.36
+8253,32353,Who will win the 2026 Illinois Democratic Senate nomination? - Juliana Stratton,2025-11-14T03:53:41.0657081,YES,0.32
+8253,32353,Who will win the 2026 Illinois Democratic Senate nomination? - Juliana Stratton,2025-11-14T03:53:41.0657081,NO,0.82
+8253,32350,Who will win the 2026 Illinois Democratic Senate nomination? - Awisi Bustos,2025-11-14T03:53:41.0657081,YES,0.01
+8253,32350,Who will win the 2026 Illinois Democratic Senate nomination? - Awisi Bustos,2025-11-14T03:53:41.0657081,NO,
+8253,32351,Who will win the 2026 Illinois Democratic Senate nomination? - Robin Kelly,2025-11-14T03:53:41.0657081,YES,0.02
+8253,32351,Who will win the 2026 Illinois Democratic Senate nomination? - Robin Kelly,2025-11-14T03:53:41.0657081,NO,0.99
+8253,32354,Who will win the 2026 Illinois Democratic Senate nomination? - Rod Blagojevich,2025-11-14T03:53:41.0657081,YES,0.01
+8253,32354,Who will win the 2026 Illinois Democratic Senate nomination? - Rod Blagojevich,2025-11-14T03:53:41.0657081,NO,
+8253,32355,Who will win the 2026 Illinois Democratic Senate nomination? - Rahm Emanuel,2025-11-14T03:53:41.0657081,YES,0.02
+8253,32355,Who will win the 2026 Illinois Democratic Senate nomination? - Rahm Emanuel,2025-11-14T03:53:41.0657081,NO,0.99
+8255,32358,Will New York enact a redistricting law in 2025? - Will New York enact a redistricting law in 2025?,2025-11-14T03:53:41.0657081,YES,0.02
+8255,32358,Will New York enact a redistricting law in 2025? - Will New York enact a redistricting law in 2025?,2025-11-14T03:53:41.0657081,NO,0.99
+8256,32359,Who will win the 2026 Maine Democratic Senate nomination? - Graham Platner,2025-11-14T03:53:41.0657081,YES,0.55
+8256,32359,Who will win the 2026 Maine Democratic Senate nomination? - Graham Platner,2025-11-14T03:53:41.0657081,NO,0.47
+8256,32360,Who will win the 2026 Maine Democratic Senate nomination? - Janet Mills,2025-11-14T03:53:41.0657081,YES,0.45
+8256,32360,Who will win the 2026 Maine Democratic Senate nomination? - Janet Mills,2025-11-14T03:53:41.0657081,NO,0.56
+8256,32496,Who will win the 2026 Maine Democratic Senate nomination? - Dan Kleban,2025-11-14T03:53:41.0657081,YES,0.01
+8256,32496,Who will win the 2026 Maine Democratic Senate nomination? - Dan Kleban,2025-11-14T03:53:41.0657081,NO,
+8265,32407,Will the NYC mayoral winner get over 50% of the vote? - Will the NYC mayoral winner get over 50% of the vote?,2025-11-14T03:53:41.0657081,YES,0.99
+8265,32407,Will the NYC mayoral winner get over 50% of the vote? - Will the NYC mayoral winner get over 50% of the vote?,2025-11-14T03:53:41.0657081,NO,0.02
+8268,32410,Will SCOTUS strike down Trump tariffs? - Will SCOTUS strike down Trump tariffs?,2025-11-14T03:53:41.0657081,YES,0.8
+8268,32410,Will SCOTUS strike down Trump tariffs? - Will SCOTUS strike down Trump tariffs?,2025-11-14T03:53:41.0657081,NO,0.24
+8271,32429,Which party will win the 2026 US Senate election in Alaska? - Republican,2025-11-14T03:53:41.0657081,YES,0.73
+8271,32429,Which party will win the 2026 US Senate election in Alaska? - Republican,2025-11-14T03:53:41.0657081,NO,0.31
+8271,32430,Which party will win the 2026 US Senate election in Alaska? - Democratic,2025-11-14T03:53:41.0657081,YES,0.3
+8271,32430,Which party will win the 2026 US Senate election in Alaska? - Democratic,2025-11-14T03:53:41.0657081,NO,0.74
+8271,32431,Which party will win the 2026 US Senate election in Alaska? - Independent,2025-11-14T03:53:41.0657081,YES,0.06
+8271,32431,Which party will win the 2026 US Senate election in Alaska? - Independent,2025-11-14T03:53:41.0657081,NO,0.96
+8274,32442,Which party will win the 2026 US Senate election in Iowa? - Republican,2025-11-14T03:53:41.0657081,YES,0.79
+8274,32442,Which party will win the 2026 US Senate election in Iowa? - Republican,2025-11-14T03:53:41.0657081,NO,0.33
+8274,32443,Which party will win the 2026 US Senate election in Iowa? - Democratic,2025-11-14T03:53:41.0657081,YES,0.33
+8274,32443,Which party will win the 2026 US Senate election in Iowa? - Democratic,2025-11-14T03:53:41.0657081,NO,0.75
+8276,32445,Will Keir Starmer remain British prime minister through 2025? - Will Keir Starmer remain British prime minister through 2025?,2025-11-14T03:53:41.0657081,YES,0.95
+8276,32445,Will Keir Starmer remain British prime minister through 2025? - Will Keir Starmer remain British prime minister through 2025?,2025-11-14T03:53:41.0657081,NO,0.06
+8278,32456,Will Trump pardon Ghislaine Maxwell or commute her sentence before July 2026? - Will Trump pardon Ghislaine Maxwell or commute her sentence before July 2026?,2025-11-14T03:53:41.0657081,YES,0.31
+8278,32456,Will Trump pardon Ghislaine Maxwell or commute her sentence before July 2026? - Will Trump pardon Ghislaine Maxwell or commute her sentence before July 2026?,2025-11-14T03:53:41.0657081,NO,0.72
+8283,32479,Will Brendan Carr leave office as FCC chair in 2025? - Will Brendan Carr leave office as FCC chair in 2025?,2025-11-14T03:53:41.0657081,YES,0.04
+8283,32479,Will Brendan Carr leave office as FCC chair in 2025? - Will Brendan Carr leave office as FCC chair in 2025?,2025-11-14T03:53:41.0657081,NO,0.97
+8286,32485,Which gubernatorial race will be closer: New Jersey or Virginia? - New Jersey,2025-11-14T03:53:41.0657081,YES,
+8286,32485,Which gubernatorial race will be closer: New Jersey or Virginia? - New Jersey,2025-11-14T03:53:41.0657081,NO,0.01
+8286,32486,Which gubernatorial race will be closer: New Jersey or Virginia? - Virginia,2025-11-14T03:53:41.0657081,YES,0.01
+8286,32486,Which gubernatorial race will be closer: New Jersey or Virginia? - Virginia,2025-11-14T03:53:41.0657081,NO,
+8288,32500,How many boroughs will Mamdani win? - 0,2025-11-14T03:53:41.0657081,YES,0.01
+8288,32500,How many boroughs will Mamdani win? - 0,2025-11-14T03:53:41.0657081,NO,
+8288,32497,How many boroughs will Mamdani win? - 1,2025-11-14T03:53:41.0657081,YES,0.01
+8288,32497,How many boroughs will Mamdani win? - 1,2025-11-14T03:53:41.0657081,NO,
+8288,32501,How many boroughs will Mamdani win? - 2,2025-11-14T03:53:41.0657081,YES,0.01
+8288,32501,How many boroughs will Mamdani win? - 2,2025-11-14T03:53:41.0657081,NO,
+8288,32499,How many boroughs will Mamdani win? - 3,2025-11-14T03:53:41.0657081,YES,0.01
+8288,32499,How many boroughs will Mamdani win? - 3,2025-11-14T03:53:41.0657081,NO,
+8288,32498,How many boroughs will Mamdani win? - 4,2025-11-14T03:53:41.0657081,YES,
+8288,32498,How many boroughs will Mamdani win? - 4,2025-11-14T03:53:41.0657081,NO,0.01
+8288,32502,How many boroughs will Mamdani win? - 5,2025-11-14T03:53:41.0657081,YES,0.01
+8288,32502,How many boroughs will Mamdani win? - 5,2025-11-14T03:53:41.0657081,NO,
+8293,32526,Who will win the 2026 Maine Republican Senate nomination? - Susan Collins,2025-11-14T03:53:41.0657081,YES,0.84
+8293,32526,Who will win the 2026 Maine Republican Senate nomination? - Susan Collins,2025-11-14T03:53:41.0657081,NO,0.18
+8293,32527,Who will win the 2026 Maine Republican Senate nomination? - Daniel Smeriglio,2025-11-14T03:53:41.0657081,YES,0.16
+8293,32527,Who will win the 2026 Maine Republican Senate nomination? - Daniel Smeriglio,2025-11-14T03:53:41.0657081,NO,0.94
+8294,32528,Who will win the 2026 Wisconsin Democratic gubernatorial nomination? - David Crowley,2025-11-14T03:53:41.0657081,YES,0.9
+8294,32528,Who will win the 2026 Wisconsin Democratic gubernatorial nomination? - David Crowley,2025-11-14T03:53:41.0657081,NO,0.93
+8294,32530,Who will win the 2026 Wisconsin Democratic gubernatorial nomination? - Mandela Barnes,2025-11-14T03:53:41.0657081,YES,0.64
+8294,32530,Who will win the 2026 Wisconsin Democratic gubernatorial nomination? - Mandela Barnes,2025-11-14T03:53:41.0657081,NO,0.95
+8294,32531,Who will win the 2026 Wisconsin Democratic gubernatorial nomination? - Kelda Roys,2025-11-14T03:53:41.0657081,YES,0.93
+8294,32531,Who will win the 2026 Wisconsin Democratic gubernatorial nomination? - Kelda Roys,2025-11-14T03:53:41.0657081,NO,0.95
+8294,32533,Who will win the 2026 Wisconsin Democratic gubernatorial nomination? - Missy Hughes,2025-11-14T03:53:41.0657081,YES,0.93
+8294,32533,Who will win the 2026 Wisconsin Democratic gubernatorial nomination? - Missy Hughes,2025-11-14T03:53:41.0657081,NO,0.97
+8294,32529,Who will win the 2026 Wisconsin Democratic gubernatorial nomination? - Sara Rodriguez,2025-11-14T03:53:41.0657081,YES,0.97
+8294,32529,Who will win the 2026 Wisconsin Democratic gubernatorial nomination? - Sara Rodriguez,2025-11-14T03:53:41.0657081,NO,0.91
+8297,32554,Which party will win the 2026 gubernatorial election in Minnesota? - Democratic,2025-11-14T03:53:41.0657081,YES,0.85
+8297,32554,Which party will win the 2026 gubernatorial election in Minnesota? - Democratic,2025-11-14T03:53:41.0657081,NO,0.17
+8297,32553,Which party will win the 2026 gubernatorial election in Minnesota? - Republican,2025-11-14T03:53:41.0657081,YES,0.18
+8297,32553,Which party will win the 2026 gubernatorial election in Minnesota? - Republican,2025-11-14T03:53:41.0657081,NO,0.83
+8298,32555,Who will win the 2026 Minnesota Republican gubernatorial nomination? - Scott Jensen,2025-11-14T03:53:41.0657081,YES,0.69
+8298,32555,Who will win the 2026 Minnesota Republican gubernatorial nomination? - Scott Jensen,2025-11-14T03:53:41.0657081,NO,0.96
+8298,32559,Who will win the 2026 Minnesota Republican gubernatorial nomination? - Lisa Demuth,2025-11-14T03:53:41.0657081,YES,0.25
+8298,32559,Who will win the 2026 Minnesota Republican gubernatorial nomination? - Lisa Demuth,2025-11-14T03:53:41.0657081,NO,0.9
+8298,32557,Who will win the 2026 Minnesota Republican gubernatorial nomination? - Julia Coleman,2025-11-14T03:53:41.0657081,YES,0.88
+8298,32557,Who will win the 2026 Minnesota Republican gubernatorial nomination? - Julia Coleman,2025-11-14T03:53:41.0657081,NO,0.95
+8298,32556,Who will win the 2026 Minnesota Republican gubernatorial nomination? - Brad Kohler,2025-11-14T03:53:41.0657081,YES,0.69
+8298,32556,Who will win the 2026 Minnesota Republican gubernatorial nomination? - Brad Kohler,2025-11-14T03:53:41.0657081,NO,0.98
+8298,32558,Who will win the 2026 Minnesota Republican gubernatorial nomination? - Mike Lindell,2025-11-14T03:53:41.0657081,YES,0.31
+8298,32558,Who will win the 2026 Minnesota Republican gubernatorial nomination? - Mike Lindell,2025-11-14T03:53:41.0657081,NO,0.97
+8304,32579,Will Trump invoke the Insurrection Act in 2025? - Will Trump invoke the Insurrection Act in 2025?,2025-11-14T03:53:41.0657081,YES,0.13
+8304,32579,Will Trump invoke the Insurrection Act in 2025? - Will Trump invoke the Insurrection Act in 2025?,2025-11-14T03:53:41.0657081,NO,0.95
+8306,32590,French election called by Dec. 1? - French election called by Dec. 1?,2025-11-14T03:53:41.0657081,YES,0.05
+8306,32590,French election called by Dec. 1? - French election called by Dec. 1?,2025-11-14T03:53:41.0657081,NO,0.99
+8309,32601,Will Netanyahu remain Israeli prime minister through March 2026? - Will Netanyahu remain Israeli prime minister through March 2026?,2025-11-14T03:53:41.0657081,YES,0.87
+8309,32601,Will Netanyahu remain Israeli prime minister through March 2026? - Will Netanyahu remain Israeli prime minister through March 2026?,2025-11-14T03:53:41.0657081,NO,0.22
+8310,32602,Will Trump order the National Guard to San Francisco in 2025? - Will Trump order the National Guard to San Francisco in 2025?,2025-11-14T03:53:41.0657081,YES,0.08
+8310,32602,Will Trump order the National Guard to San Francisco in 2025? - Will Trump order the National Guard to San Francisco in 2025?,2025-11-14T03:53:41.0657081,NO,0.93
+8315,32642,Will Trump order the National Guard to NYC in 2025? - Will Trump order the National Guard to NYC in 2025?,2025-11-14T03:53:41.0657081,YES,0.15
+8315,32642,Will Trump order the National Guard to NYC in 2025? - Will Trump order the National Guard to NYC in 2025?,2025-11-14T03:53:41.0657081,NO,0.91
+8317,32657,By how much will Jay Jones underperform Spanberger? - Overperform or 0%,2025-11-14T03:53:41.0657081,YES,0.01
+8317,32657,By how much will Jay Jones underperform Spanberger? - Overperform or 0%,2025-11-14T03:53:41.0657081,NO,
+8317,32659,By how much will Jay Jones underperform Spanberger? - 0% to 3%,2025-11-14T03:53:41.0657081,YES,0.01
+8317,32659,By how much will Jay Jones underperform Spanberger? - 0% to 3%,2025-11-14T03:53:41.0657081,NO,
+8317,32656,By how much will Jay Jones underperform Spanberger? - 3% to 6%,2025-11-14T03:53:41.0657081,YES,
+8317,32656,By how much will Jay Jones underperform Spanberger? - 3% to 6%,2025-11-14T03:53:41.0657081,NO,0.01
+8317,32655,By how much will Jay Jones underperform Spanberger? - 6% to 9%,2025-11-14T03:53:41.0657081,YES,0.01
+8317,32655,By how much will Jay Jones underperform Spanberger? - 6% to 9%,2025-11-14T03:53:41.0657081,NO,
+8317,32654,By how much will Jay Jones underperform Spanberger? - 9% to 12%,2025-11-14T03:53:41.0657081,YES,0.01
+8317,32654,By how much will Jay Jones underperform Spanberger? - 9% to 12%,2025-11-14T03:53:41.0657081,NO,
+8317,32653,By how much will Jay Jones underperform Spanberger? - 12% to 15%,2025-11-14T03:53:41.0657081,YES,0.01
+8317,32653,By how much will Jay Jones underperform Spanberger? - 12% to 15%,2025-11-14T03:53:41.0657081,NO,
+8317,32658,By how much will Jay Jones underperform Spanberger? - 15% or more,2025-11-14T03:53:41.0657081,YES,0.01
+8317,32658,By how much will Jay Jones underperform Spanberger? - 15% or more,2025-11-14T03:53:41.0657081,NO,
+8319,32670,Which party will win the 2025 House special election in TN-07? - Republican,2025-11-14T03:53:41.0657081,YES,0.93
+8319,32670,Which party will win the 2025 House special election in TN-07? - Republican,2025-11-14T03:53:41.0657081,NO,0.1
+8319,32669,Which party will win the 2025 House special election in TN-07? - Democratic,2025-11-14T03:53:41.0657081,YES,0.11
+8319,32669,Which party will win the 2025 House special election in TN-07? - Democratic,2025-11-14T03:53:41.0657081,NO,0.91
+8320,32675,What will be the margin in the New York City mayoral election? - Mamdani ≥ 24%,2025-11-14T03:53:41.0657081,YES,0.01
+8320,32675,What will be the margin in the New York City mayoral election? - Mamdani ≥ 24%,2025-11-14T03:53:41.0657081,NO,
+8320,32680,What will be the margin in the New York City mayoral election? - Mamdani 22% - 24%,2025-11-14T03:53:41.0657081,YES,0.01
+8320,32680,What will be the margin in the New York City mayoral election? - Mamdani 22% - 24%,2025-11-14T03:53:41.0657081,NO,
+8320,32678,What will be the margin in the New York City mayoral election? - Mamdani 20% - 22%,2025-11-14T03:53:41.0657081,YES,0.01
+8320,32678,What will be the margin in the New York City mayoral election? - Mamdani 20% - 22%,2025-11-14T03:53:41.0657081,NO,
+8320,32674,What will be the margin in the New York City mayoral election? - Mamdani 18% - 20%,2025-11-14T03:53:41.0657081,YES,0.01
+8320,32674,What will be the margin in the New York City mayoral election? - Mamdani 18% - 20%,2025-11-14T03:53:41.0657081,NO,
+8320,32673,What will be the margin in the New York City mayoral election? - Mamdani 16% - 18%,2025-11-14T03:53:41.0657081,YES,0.01
+8320,32673,What will be the margin in the New York City mayoral election? - Mamdani 16% - 18%,2025-11-14T03:53:41.0657081,NO,
+8320,32672,What will be the margin in the New York City mayoral election? - Mamdani 14% - 16%,2025-11-14T03:53:41.0657081,YES,0.01
+8320,32672,What will be the margin in the New York City mayoral election? - Mamdani 14% - 16%,2025-11-14T03:53:41.0657081,NO,
+8320,32671,What will be the margin in the New York City mayoral election? - Mamdani 12% - 14%,2025-11-14T03:53:41.0657081,YES,0.01
+8320,32671,What will be the margin in the New York City mayoral election? - Mamdani 12% - 14%,2025-11-14T03:53:41.0657081,NO,
+8320,32676,What will be the margin in the New York City mayoral election? - Mamdani 10% - 12%,2025-11-14T03:53:41.0657081,YES,0.02
+8320,32676,What will be the margin in the New York City mayoral election? - Mamdani 10% - 12%,2025-11-14T03:53:41.0657081,NO,0.99
+8320,32677,What will be the margin in the New York City mayoral election? - Mamdani 8% - 10%,2025-11-14T03:53:41.0657081,YES,
+8320,32677,What will be the margin in the New York City mayoral election? - Mamdani 8% - 10%,2025-11-14T03:53:41.0657081,NO,0.02
+8320,32679,What will be the margin in the New York City mayoral election? - Mamdani under 8%,2025-11-14T03:53:41.0657081,YES,0.01
+8320,32679,What will be the margin in the New York City mayoral election? - Mamdani under 8%,2025-11-14T03:53:41.0657081,NO,
+8324,32707,Who will win the 2025 election for Mayor of Jersey City? - James Solomon,2025-11-14T03:53:41.0657081,YES,0.9
+8324,32707,Who will win the 2025 election for Mayor of Jersey City? - James Solomon,2025-11-14T03:53:41.0657081,NO,0.14
+8324,32705,Who will win the 2025 election for Mayor of Jersey City? - Jim McGreevey,2025-11-14T03:53:41.0657081,YES,0.16
+8324,32705,Who will win the 2025 election for Mayor of Jersey City? - Jim McGreevey,2025-11-14T03:53:41.0657081,NO,0.9
+8324,32704,Who will win the 2025 election for Mayor of Jersey City? - Mussab Ali,2025-11-14T03:53:41.0657081,YES,0.01
+8324,32704,Who will win the 2025 election for Mayor of Jersey City? - Mussab Ali,2025-11-14T03:53:41.0657081,NO,
+8324,32706,Who will win the 2025 election for Mayor of Jersey City? - Bill O’Dea,2025-11-14T03:53:41.0657081,YES,0.01
+8324,32706,Who will win the 2025 election for Mayor of Jersey City? - Bill O’Dea,2025-11-14T03:53:41.0657081,NO,
+8324,32708,Who will win the 2025 election for Mayor of Jersey City? - Joyce Watterman,2025-11-14T03:53:41.0657081,YES,0.01
+8324,32708,Who will win the 2025 election for Mayor of Jersey City? - Joyce Watterman,2025-11-14T03:53:41.0657081,NO,
+8327,32727,Will Trump legally challenge a state or citywide election result in 2025? - Will Trump legally challenge a state or citywide election result in 2025?,2025-11-14T03:53:41.0657081,YES,0.18
+8327,32727,Will Trump legally challenge a state or citywide election result in 2025? - Will Trump legally challenge a state or citywide election result in 2025?,2025-11-14T03:53:41.0657081,NO,0.96
+8328,32732,What will be the margin in the Virginia attorney general election? - Miyares ≥ 10%,2025-11-14T03:53:41.0657081,YES,0.01
+8328,32732,What will be the margin in the Virginia attorney general election? - Miyares ≥ 10%,2025-11-14T03:53:41.0657081,NO,
+8328,32731,What will be the margin in the Virginia attorney general election? - Miyares 8% - 10%,2025-11-14T03:53:41.0657081,YES,0.01
+8328,32731,What will be the margin in the Virginia attorney general election? - Miyares 8% - 10%,2025-11-14T03:53:41.0657081,NO,
+8328,32730,What will be the margin in the Virginia attorney general election? - Miyares 6% - 8%,2025-11-14T03:53:41.0657081,YES,0.01
+8328,32730,What will be the margin in the Virginia attorney general election? - Miyares 6% - 8%,2025-11-14T03:53:41.0657081,NO,
+8328,32729,What will be the margin in the Virginia attorney general election? - Miyares 4% - 6%,2025-11-14T03:53:41.0657081,YES,0.01
+8328,32729,What will be the margin in the Virginia attorney general election? - Miyares 4% - 6%,2025-11-14T03:53:41.0657081,NO,
+8328,32728,What will be the margin in the Virginia attorney general election? - Miyares 2% - 4%,2025-11-14T03:53:41.0657081,YES,0.01
+8328,32728,What will be the margin in the Virginia attorney general election? - Miyares 2% - 4%,2025-11-14T03:53:41.0657081,NO,
+8328,32733,What will be the margin in the Virginia attorney general election? - Miyares under 2%,2025-11-14T03:53:41.0657081,YES,0.01
+8328,32733,What will be the margin in the Virginia attorney general election? - Miyares under 2%,2025-11-14T03:53:41.0657081,NO,
+8328,32734,What will be the margin in the Virginia attorney general election? - Jones under 2%,2025-11-14T03:53:41.0657081,YES,0.01
+8328,32734,What will be the margin in the Virginia attorney general election? - Jones under 2%,2025-11-14T03:53:41.0657081,NO,
+8328,32737,What will be the margin in the Virginia attorney general election? - Jones 2% - 4%,2025-11-14T03:53:41.0657081,YES,0.01
+8328,32737,What will be the margin in the Virginia attorney general election? - Jones 2% - 4%,2025-11-14T03:53:41.0657081,NO,
+8328,32735,What will be the margin in the Virginia attorney general election? - Jones 4% - 6%,2025-11-14T03:53:41.0657081,YES,0.01
+8328,32735,What will be the margin in the Virginia attorney general election? - Jones 4% - 6%,2025-11-14T03:53:41.0657081,NO,
+8328,32736,What will be the margin in the Virginia attorney general election? - Jones ≥ 6%,2025-11-14T03:53:41.0657081,YES,
+8328,32736,What will be the margin in the Virginia attorney general election? - Jones ≥ 6%,2025-11-14T03:53:41.0657081,NO,0.01
+8329,32738,Will Jack Smith testify publicly before Congress in 2025? - Will Jack Smith testify publicly before Congress in 2025?,2025-11-14T03:53:41.0657081,YES,0.43
+8329,32738,Will Jack Smith testify publicly before Congress in 2025? - Will Jack Smith testify publicly before Congress in 2025?,2025-11-14T03:53:41.0657081,NO,0.98
+8330,32740,Who will win the 2025 election for Mayor of Miami? - Eileen Higgins,2025-11-14T03:53:41.0657081,YES,0.96
+8330,32740,Who will win the 2025 election for Mayor of Miami? - Eileen Higgins,2025-11-14T03:53:41.0657081,NO,0.06
+8330,32739,Who will win the 2025 election for Mayor of Miami? - Emilio Gonzalez,2025-11-14T03:53:41.0657081,YES,0.06
+8330,32739,Who will win the 2025 election for Mayor of Miami? - Emilio Gonzalez,2025-11-14T03:53:41.0657081,NO,0.97
+8330,32741,Who will win the 2025 election for Mayor of Miami? - Ken Russell,2025-11-14T03:53:41.0657081,YES,0.01
+8330,32741,Who will win the 2025 election for Mayor of Miami? - Ken Russell,2025-11-14T03:53:41.0657081,NO,
+8330,32742,Who will win the 2025 election for Mayor of Miami? - Xavier Suarez,2025-11-14T03:53:41.0657081,YES,0.01
+8330,32742,Who will win the 2025 election for Mayor of Miami? - Xavier Suarez,2025-11-14T03:53:41.0657081,NO,
+8330,32743,Who will win the 2025 election for Mayor of Miami? - Joe Carollo,2025-11-14T03:53:41.0657081,YES,0.01
+8330,32743,Who will win the 2025 election for Mayor of Miami? - Joe Carollo,2025-11-14T03:53:41.0657081,NO,
+8333,32756,Will Indiana enact a redistricting law in 2025? - Will Indiana enact a redistricting law in 2025?,2025-11-14T03:53:41.0657081,YES,0.14
+8333,32756,Will Indiana enact a redistricting law in 2025? - Will Indiana enact a redistricting law in 2025?,2025-11-14T03:53:41.0657081,NO,0.87
+8334,32765,What percentage of the New York City mayoral vote will Andrew Cuomo win? - < 29%,2025-11-14T03:53:41.0657081,YES,0.01
+8334,32765,What percentage of the New York City mayoral vote will Andrew Cuomo win? - < 29%,2025-11-14T03:53:41.0657081,NO,
+8334,32760,What percentage of the New York City mayoral vote will Andrew Cuomo win? - 29% to 30.5%,2025-11-14T03:53:41.0657081,YES,0.01
+8334,32760,What percentage of the New York City mayoral vote will Andrew Cuomo win? - 29% to 30.5%,2025-11-14T03:53:41.0657081,NO,
+8334,32759,What percentage of the New York City mayoral vote will Andrew Cuomo win? - 30.5% to 32%,2025-11-14T03:53:41.0657081,YES,0.01
+8334,32759,What percentage of the New York City mayoral vote will Andrew Cuomo win? - 30.5% to 32%,2025-11-14T03:53:41.0657081,NO,
+8334,32758,What percentage of the New York City mayoral vote will Andrew Cuomo win? - 32% to 33.5%,2025-11-14T03:53:41.0657081,YES,0.01
+8334,32758,What percentage of the New York City mayoral vote will Andrew Cuomo win? - 32% to 33.5%,2025-11-14T03:53:41.0657081,NO,
+8334,32757,What percentage of the New York City mayoral vote will Andrew Cuomo win? - 33.5% to 35%,2025-11-14T03:53:41.0657081,YES,0.01
+8334,32757,What percentage of the New York City mayoral vote will Andrew Cuomo win? - 33.5% to 35%,2025-11-14T03:53:41.0657081,NO,
+8334,32764,What percentage of the New York City mayoral vote will Andrew Cuomo win? - 35% to 36.5%,2025-11-14T03:53:41.0657081,YES,0.01
+8334,32764,What percentage of the New York City mayoral vote will Andrew Cuomo win? - 35% to 36.5%,2025-11-14T03:53:41.0657081,NO,
+8334,32763,What percentage of the New York City mayoral vote will Andrew Cuomo win? - 36.5% to 38%,2025-11-14T03:53:41.0657081,YES,0.01
+8334,32763,What percentage of the New York City mayoral vote will Andrew Cuomo win? - 36.5% to 38%,2025-11-14T03:53:41.0657081,NO,
+8334,32762,What percentage of the New York City mayoral vote will Andrew Cuomo win? - 38% to 39.5%,2025-11-14T03:53:41.0657081,YES,0.01
+8334,32762,What percentage of the New York City mayoral vote will Andrew Cuomo win? - 38% to 39.5%,2025-11-14T03:53:41.0657081,NO,
+8334,32761,What percentage of the New York City mayoral vote will Andrew Cuomo win? - 39.5% to 41%,2025-11-14T03:53:41.0657081,YES,0.02
+8334,32761,What percentage of the New York City mayoral vote will Andrew Cuomo win? - 39.5% to 41%,2025-11-14T03:53:41.0657081,NO,0.99
+8334,32766,What percentage of the New York City mayoral vote will Andrew Cuomo win? - ≥ 41%,2025-11-14T03:53:41.0657081,YES,
+8334,32766,What percentage of the New York City mayoral vote will Andrew Cuomo win? - ≥ 41%,2025-11-14T03:53:41.0657081,NO,0.01
+8337,32786,Will the House pass a bill or resolution by Nov. 21 asking for Epstein files? - Will the House pass a bill or resolution by Nov. 21 asking for Epstein files?,2025-11-14T03:53:41.0657081,YES,0.91
+8337,32786,Will the House pass a bill or resolution by Nov. 21 asking for Epstein files? - Will the House pass a bill or resolution by Nov. 21 asking for Epstein files?,2025-11-14T03:53:41.0657081,NO,0.15
+8340,32805,How many seats will Dems win in the 2025 New Jersey General Assembly election? - 47 or fewer,2025-11-14T03:53:41.0657081,YES,0.01
+8340,32805,How many seats will Dems win in the 2025 New Jersey General Assembly election? - 47 or fewer,2025-11-14T03:53:41.0657081,NO,
+8340,32813,How many seats will Dems win in the 2025 New Jersey General Assembly election? - 48,2025-11-14T03:53:41.0657081,YES,0.01
+8340,32813,How many seats will Dems win in the 2025 New Jersey General Assembly election? - 48,2025-11-14T03:53:41.0657081,NO,
+8340,32811,How many seats will Dems win in the 2025 New Jersey General Assembly election? - 49,2025-11-14T03:53:41.0657081,YES,0.01
+8340,32811,How many seats will Dems win in the 2025 New Jersey General Assembly election? - 49,2025-11-14T03:53:41.0657081,NO,
+8340,32810,How many seats will Dems win in the 2025 New Jersey General Assembly election? - 50,2025-11-14T03:53:41.0657081,YES,0.01
+8340,32810,How many seats will Dems win in the 2025 New Jersey General Assembly election? - 50,2025-11-14T03:53:41.0657081,NO,
+8340,32814,How many seats will Dems win in the 2025 New Jersey General Assembly election? - 51,2025-11-14T03:53:41.0657081,YES,0.01
+8340,32814,How many seats will Dems win in the 2025 New Jersey General Assembly election? - 51,2025-11-14T03:53:41.0657081,NO,
+8340,32812,How many seats will Dems win in the 2025 New Jersey General Assembly election? - 52,2025-11-14T03:53:41.0657081,YES,0.01
+8340,32812,How many seats will Dems win in the 2025 New Jersey General Assembly election? - 52,2025-11-14T03:53:41.0657081,NO,
+8340,32809,How many seats will Dems win in the 2025 New Jersey General Assembly election? - 53,2025-11-14T03:53:41.0657081,YES,0.01
+8340,32809,How many seats will Dems win in the 2025 New Jersey General Assembly election? - 53,2025-11-14T03:53:41.0657081,NO,
+8340,32807,How many seats will Dems win in the 2025 New Jersey General Assembly election? - 54,2025-11-14T03:53:41.0657081,YES,0.01
+8340,32807,How many seats will Dems win in the 2025 New Jersey General Assembly election? - 54,2025-11-14T03:53:41.0657081,NO,
+8340,32808,How many seats will Dems win in the 2025 New Jersey General Assembly election? - 55,2025-11-14T03:53:41.0657081,YES,0.01
+8340,32808,How many seats will Dems win in the 2025 New Jersey General Assembly election? - 55,2025-11-14T03:53:41.0657081,NO,
+8340,32806,How many seats will Dems win in the 2025 New Jersey General Assembly election? - 56,2025-11-14T03:53:41.0657081,YES,0.02
+8340,32806,How many seats will Dems win in the 2025 New Jersey General Assembly election? - 56,2025-11-14T03:53:41.0657081,NO,
+8340,32815,How many seats will Dems win in the 2025 New Jersey General Assembly election? - 57 or more,2025-11-14T03:53:41.0657081,YES,
+8340,32815,How many seats will Dems win in the 2025 New Jersey General Assembly election? - 57 or more,2025-11-14T03:53:41.0657081,NO,0.03
+8344,32830,Will Jay Jones leave or decline to take office by Jan. 31? - Will Jay Jones leave or decline to take office by Jan. 31?,2025-11-14T03:53:41.0657081,YES,0.03
+8344,32830,Will Jay Jones leave or decline to take office by Jan. 31? - Will Jay Jones leave or decline to take office by Jan. 31?,2025-11-14T03:53:41.0657081,NO,0.99
+8345,32831,Will Mike Johnson remain Speaker of the House through the 119th Congress? - Will Mike Johnson remain Speaker of the House through the 119th Congress?,2025-11-14T03:53:41.0657081,YES,0.92
+8345,32831,Will Mike Johnson remain Speaker of the House through the 119th Congress? - Will Mike Johnson remain Speaker of the House through the 119th Congress?,2025-11-14T03:53:41.0657081,NO,0.12
+8346,32834,What will President Trump's DDHQ job approval rating be on Nov. 14? - 42.3% or lower,2025-11-14T03:53:41.0657081,YES,0.98
+8346,32834,What will President Trump's DDHQ job approval rating be on Nov. 14? - 42.3% or lower,2025-11-14T03:53:41.0657081,NO,0.04
+8346,32837,What will President Trump's DDHQ job approval rating be on Nov. 14? - 42.4% to 42.6%,2025-11-14T03:53:41.0657081,YES,0.05
+8346,32837,What will President Trump's DDHQ job approval rating be on Nov. 14? - 42.4% to 42.6%,2025-11-14T03:53:41.0657081,NO,0.98
+8346,32840,What will President Trump's DDHQ job approval rating be on Nov. 14? - 42.7% to 42.9%,2025-11-14T03:53:41.0657081,YES,0.01
+8346,32840,What will President Trump's DDHQ job approval rating be on Nov. 14? - 42.7% to 42.9%,2025-11-14T03:53:41.0657081,NO,
+8346,32839,What will President Trump's DDHQ job approval rating be on Nov. 14? - 43.0% to 43.2%,2025-11-14T03:53:41.0657081,YES,0.01
+8346,32839,What will President Trump's DDHQ job approval rating be on Nov. 14? - 43.0% to 43.2%,2025-11-14T03:53:41.0657081,NO,
+8346,32832,What will President Trump's DDHQ job approval rating be on Nov. 14? - 43.3% to 43.5%,2025-11-14T03:53:41.0657081,YES,0.01
+8346,32832,What will President Trump's DDHQ job approval rating be on Nov. 14? - 43.3% to 43.5%,2025-11-14T03:53:41.0657081,NO,
+8346,32835,What will President Trump's DDHQ job approval rating be on Nov. 14? - 43.6% to 43.8%,2025-11-14T03:53:41.0657081,YES,0.01
+8346,32835,What will President Trump's DDHQ job approval rating be on Nov. 14? - 43.6% to 43.8%,2025-11-14T03:53:41.0657081,NO,
+8346,32833,What will President Trump's DDHQ job approval rating be on Nov. 14? - 43.9% to 44.1%,2025-11-14T03:53:41.0657081,YES,0.01
+8346,32833,What will President Trump's DDHQ job approval rating be on Nov. 14? - 43.9% to 44.1%,2025-11-14T03:53:41.0657081,NO,
+8346,32836,What will President Trump's DDHQ job approval rating be on Nov. 14? - 44.2% to 44.4%,2025-11-14T03:53:41.0657081,YES,0.01
+8346,32836,What will President Trump's DDHQ job approval rating be on Nov. 14? - 44.2% to 44.4%,2025-11-14T03:53:41.0657081,NO,
+8346,32838,What will President Trump's DDHQ job approval rating be on Nov. 14? - 44.5% or higher,2025-11-14T03:53:41.0657081,YES,0.01
+8346,32838,What will President Trump's DDHQ job approval rating be on Nov. 14? - 44.5% or higher,2025-11-14T03:53:41.0657081,NO,
+8348,32849,Who will place first in round one of the 2025 Chilean presidential election? - Jeannette Jara,2025-11-14T03:53:41.0657081,YES,0.91
+8348,32849,Who will place first in round one of the 2025 Chilean presidential election? - Jeannette Jara,2025-11-14T03:53:41.0657081,NO,0.16
+8348,32852,Who will place first in round one of the 2025 Chilean presidential election? - José Antonio Kast,2025-11-14T03:53:41.0657081,YES,0.17
+8348,32852,Who will place first in round one of the 2025 Chilean presidential election? - José Antonio Kast,2025-11-14T03:53:41.0657081,NO,0.93
+8348,32853,Who will place first in round one of the 2025 Chilean presidential election? - Johannes Kaiser,2025-11-14T03:53:41.0657081,YES,0.03
+8348,32853,Who will place first in round one of the 2025 Chilean presidential election? - Johannes Kaiser,2025-11-14T03:53:41.0657081,NO,0.99
+8348,32850,Who will place first in round one of the 2025 Chilean presidential election? - Evelyn Matthei,2025-11-14T03:53:41.0657081,YES,0.01
+8348,32850,Who will place first in round one of the 2025 Chilean presidential election? - Evelyn Matthei,2025-11-14T03:53:41.0657081,NO,
+8348,32851,Who will place first in round one of the 2025 Chilean presidential election? - Franco Parisi,2025-11-14T03:53:41.0657081,YES,0.02
+8348,32851,Who will place first in round one of the 2025 Chilean presidential election? - Franco Parisi,2025-11-14T03:53:41.0657081,NO,
+8349,32854,Will Chuck Schumer remain the Democratic Leader through the 119th Congress? - Will Chuck Schumer remain the Democratic Leader through the 119th Congress?,2025-11-14T03:53:41.0657081,YES,0.93
+8349,32854,Will Chuck Schumer remain the Democratic Leader through the 119th Congress? - Will Chuck Schumer remain the Democratic Leader through the 119th Congress?,2025-11-14T03:53:41.0657081,NO,0.08
+8350,32858,Who will place second in round one of the 2025 Chilean presidential election? - José Antonio Kast,2025-11-14T03:53:41.0657081,YES,0.92
+8350,32858,Who will place second in round one of the 2025 Chilean presidential election? - José Antonio Kast,2025-11-14T03:53:41.0657081,NO,0.47
+8350,32859,Who will place second in round one of the 2025 Chilean presidential election? - Johannes Kaiser,2025-11-14T03:53:41.0657081,YES,0.26
+8350,32859,Who will place second in round one of the 2025 Chilean presidential election? - Johannes Kaiser,2025-11-14T03:53:41.0657081,NO,0.95
+8350,32855,Who will place second in round one of the 2025 Chilean presidential election? - Jeannette Jara,2025-11-14T03:53:41.0657081,YES,0.4
+8350,32855,Who will place second in round one of the 2025 Chilean presidential election? - Jeannette Jara,2025-11-14T03:53:41.0657081,NO,0.94
+8350,32856,Who will place second in round one of the 2025 Chilean presidential election? - Evelyn Matthei,2025-11-14T03:53:41.0657081,YES,0.05
+8350,32856,Who will place second in round one of the 2025 Chilean presidential election? - Evelyn Matthei,2025-11-14T03:53:41.0657081,NO,0.98
+8350,32857,Who will place second in round one of the 2025 Chilean presidential election? - Franco Parisi,2025-11-14T03:53:41.0657081,YES,0.03
+8350,32857,Who will place second in round one of the 2025 Chilean presidential election? - Franco Parisi,2025-11-14T03:53:41.0657081,NO,0.98
+8351,32861,Who will win the 2026 New Hampshire Republican Senate nomination? - John Sununu,2025-11-14T03:53:41.0657081,YES,0.94
+8351,32861,Who will win the 2026 New Hampshire Republican Senate nomination? - John Sununu,2025-11-14T03:53:41.0657081,NO,0.65
+8351,32860,Who will win the 2026 New Hampshire Republican Senate nomination? - Scott Brown,2025-11-14T03:53:41.0657081,YES,0.69
+8351,32860,Who will win the 2026 New Hampshire Republican Senate nomination? - Scott Brown,2025-11-14T03:53:41.0657081,NO,0.89
+8352,32864,What will President Trump's RCP job approval rating be on Nov. 19? - 41.7% or lower,2025-11-14T03:53:41.0657081,YES,0.22
+8352,32864,What will President Trump's RCP job approval rating be on Nov. 19? - 41.7% or lower,2025-11-14T03:53:41.0657081,NO,0.84
+8352,32870,What will President Trump's RCP job approval rating be on Nov. 19? - 41.8% to 42.0%,2025-11-14T03:53:41.0657081,YES,0.28
+8352,32870,What will President Trump's RCP job approval rating be on Nov. 19? - 41.8% to 42.0%,2025-11-14T03:53:41.0657081,NO,0.76
+8352,32869,What will President Trump's RCP job approval rating be on Nov. 19? - 42.1% to 42.3%,2025-11-14T03:53:41.0657081,YES,0.34
+8352,32869,What will President Trump's RCP job approval rating be on Nov. 19? - 42.1% to 42.3%,2025-11-14T03:53:41.0657081,NO,0.72
+8352,32862,What will President Trump's RCP job approval rating be on Nov. 19? - 42.4% to 42.6%,2025-11-14T03:53:41.0657081,YES,0.19
+8352,32862,What will President Trump's RCP job approval rating be on Nov. 19? - 42.4% to 42.6%,2025-11-14T03:53:41.0657081,NO,0.85
+8352,32865,What will President Trump's RCP job approval rating be on Nov. 19? - 42.7% to 42.9%,2025-11-14T03:53:41.0657081,YES,0.08
+8352,32865,What will President Trump's RCP job approval rating be on Nov. 19? - 42.7% to 42.9%,2025-11-14T03:53:41.0657081,NO,0.93
+8352,32863,What will President Trump's RCP job approval rating be on Nov. 19? - 43.0% to 43.2%,2025-11-14T03:53:41.0657081,YES,0.07
+8352,32863,What will President Trump's RCP job approval rating be on Nov. 19? - 43.0% to 43.2%,2025-11-14T03:53:41.0657081,NO,0.97
+8352,32866,What will President Trump's RCP job approval rating be on Nov. 19? - 43.3% to 43.5%,2025-11-14T03:53:41.0657081,YES,0.04
+8352,32866,What will President Trump's RCP job approval rating be on Nov. 19? - 43.3% to 43.5%,2025-11-14T03:53:41.0657081,NO,0.99
+8352,32867,What will President Trump's RCP job approval rating be on Nov. 19? - 43.6% to 43.8%,2025-11-14T03:53:41.0657081,YES,0.02
+8352,32867,What will President Trump's RCP job approval rating be on Nov. 19? - 43.6% to 43.8%,2025-11-14T03:53:41.0657081,NO,0.99
+8352,32868,What will President Trump's RCP job approval rating be on Nov. 19? - 43.9% or higher,2025-11-14T03:53:41.0657081,YES,0.01
+8352,32868,What will President Trump's RCP job approval rating be on Nov. 19? - 43.9% or higher,2025-11-14T03:53:41.0657081,NO,
+8354,32882,How many Yea votes in the House for Epstein Files by Dec. 5? - 265 or fewer,2025-11-14T03:53:41.0657081,YES,0.65
+8354,32882,How many Yea votes in the House for Epstein Files by Dec. 5? - 265 or fewer,2025-11-14T03:53:41.0657081,NO,0.83
+8354,32888,How many Yea votes in the House for Epstein Files by Dec. 5? - 266 to 275,2025-11-14T03:53:41.0657081,YES,0.49
+8354,32888,How many Yea votes in the House for Epstein Files by Dec. 5? - 266 to 275,2025-11-14T03:53:41.0657081,NO,0.92
+8354,32890,How many Yea votes in the House for Epstein Files by Dec. 5? - 276 to 285,2025-11-14T03:53:41.0657081,YES,0.49
+8354,32890,How many Yea votes in the House for Epstein Files by Dec. 5? - 276 to 285,2025-11-14T03:53:41.0657081,NO,0.92
+8354,32883,How many Yea votes in the House for Epstein Files by Dec. 5? - 286 to 295,2025-11-14T03:53:41.0657081,YES,0.46
+8354,32883,How many Yea votes in the House for Epstein Files by Dec. 5? - 286 to 295,2025-11-14T03:53:41.0657081,NO,0.88
+8354,32884,How many Yea votes in the House for Epstein Files by Dec. 5? - 296 to 305,2025-11-14T03:53:41.0657081,YES,0.48
+8354,32884,How many Yea votes in the House for Epstein Files by Dec. 5? - 296 to 305,2025-11-14T03:53:41.0657081,NO,0.88
+8354,32885,How many Yea votes in the House for Epstein Files by Dec. 5? - 306 to 315,2025-11-14T03:53:41.0657081,YES,0.32
+8354,32885,How many Yea votes in the House for Epstein Files by Dec. 5? - 306 to 315,2025-11-14T03:53:41.0657081,NO,0.92
+8354,32886,How many Yea votes in the House for Epstein Files by Dec. 5? - 316 to 325,2025-11-14T03:53:41.0657081,YES,0.08
+8354,32886,How many Yea votes in the House for Epstein Files by Dec. 5? - 316 to 325,2025-11-14T03:53:41.0657081,NO,0.95
+8354,32887,How many Yea votes in the House for Epstein Files by Dec. 5? - 326 to 335,2025-11-14T03:53:41.0657081,YES,0.06
+8354,32887,How many Yea votes in the House for Epstein Files by Dec. 5? - 326 to 335,2025-11-14T03:53:41.0657081,NO,0.96
+8354,32889,How many Yea votes in the House for Epstein Files by Dec. 5? - 336 or more,2025-11-14T03:53:41.0657081,YES,0.94
+8354,32889,How many Yea votes in the House for Epstein Files by Dec. 5? - 336 or more,2025-11-14T03:53:41.0657081,NO,0.9
+8355,32891,Will the Senate pass a bill or resolution by Dec. 31 asking for Epstein Files? - Will the Senate pass a bill or resolution by Dec. 31 asking for Epstein Files?,2025-11-14T03:53:41.0657081,YES,0.2
+8355,32891,Will the Senate pass a bill or resolution by Dec. 31 asking for Epstein Files? - Will the Senate pass a bill or resolution by Dec. 31 asking for Epstein Files?,2025-11-14T03:53:41.0657081,NO,0.82

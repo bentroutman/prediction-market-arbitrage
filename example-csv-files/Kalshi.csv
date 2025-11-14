@@ -1,0 +1,51 @@
+event_id,market_id,full_name,end_date,side,bid,ask
+KXELONMARS-99,KXELONMARS-99,Will Elon Musk visit Mars in his lifetime? Before 2099 - Mars,2099-08-01T04:59:00Z,YES,8,10
+KXELONMARS-99,KXELONMARS-99,Will Elon Musk visit Mars in his lifetime? Before 2099 - Mars,2099-08-01T04:59:00Z,NO,90,92
+KXNEWPOPE-70,KXNEWPOPE-70-PPAR,Who will the next Pope be? Before 2070 - Pietro Parolin,2070-01-01T15:00:00Z,YES,0,3
+KXNEWPOPE-70,KXNEWPOPE-70-PPAR,Who will the next Pope be? Before 2070 - Pietro Parolin,2070-01-01T15:00:00Z,NO,97,100
+KXNEWPOPE-70,KXNEWPOPE-70-PERD,Who will the next Pope be? Before 2070 - Peter Erdo,2070-01-01T15:00:00Z,YES,0,3
+KXNEWPOPE-70,KXNEWPOPE-70-PERD,Who will the next Pope be? Before 2070 - Peter Erdo,2070-01-01T15:00:00Z,NO,97,100
+KXNEWPOPE-70,KXNEWPOPE-70-MZUP,Who will the next Pope be? Before 2070 - Matteo Zuppi,2070-01-01T15:00:00Z,YES,0,3
+KXNEWPOPE-70,KXNEWPOPE-70-MZUP,Who will the next Pope be? Before 2070 - Matteo Zuppi,2070-01-01T15:00:00Z,NO,97,100
+KXNEWPOPE-70,KXNEWPOPE-70-LANT,Who will the next Pope be? Before 2070 - Luis Antonio Tagle,2070-01-01T15:00:00Z,YES,0,3
+KXNEWPOPE-70,KXNEWPOPE-70-LANT,Who will the next Pope be? Before 2070 - Luis Antonio Tagle,2070-01-01T15:00:00Z,NO,97,100
+KXNEWPOPE-70,KXNEWPOPE-70-FAMB,Who will the next Pope be? Before 2070 - Fridolin Ambongo,2070-01-01T15:00:00Z,YES,1,3
+KXNEWPOPE-70,KXNEWPOPE-70-FAMB,Who will the next Pope be? Before 2070 - Fridolin Ambongo,2070-01-01T15:00:00Z,NO,97,99
+KXNEWPOPE-70,KXNEWPOPE-70-AARB,Who will the next Pope be? Before 2070 - Anders Arborelius,2070-01-01T15:00:00Z,YES,1,3
+KXNEWPOPE-70,KXNEWPOPE-70-AARB,Who will the next Pope be? Before 2070 - Anders Arborelius,2070-01-01T15:00:00Z,NO,97,99
+KXNEWPOPE-70,KXNEWPOPE-70-PPIZ,Who will the next Pope be? Before 2070 - Pierbattista Pizzaballa,2070-01-01T15:00:00Z,YES,1,3
+KXNEWPOPE-70,KXNEWPOPE-70-PPIZ,Who will the next Pope be? Before 2070 - Pierbattista Pizzaballa,2070-01-01T15:00:00Z,NO,97,99
+KXWARMING-50,KXWARMING-50,Will the world pass 2 degrees Celsius over pre-industrial levels before 2050? Before 2050 - Before 2050,2050-01-01T04:59:00Z,YES,77,83
+KXWARMING-50,KXWARMING-50,Will the world pass 2 degrees Celsius over pre-industrial levels before 2050? Before 2050 - Before 2050,2050-01-01T04:59:00Z,NO,17,23
+KXMARSVRAIL-50,KXMARSVRAIL-50,Will a human land on Mars before California starts high-speed rail? Before 2050 - Before 2050,2050-01-01T04:59:00Z,YES,10,15
+KXMARSVRAIL-50,KXMARSVRAIL-50,Will a human land on Mars before California starts high-speed rail? Before 2050 - Before 2050,2050-01-01T04:59:00Z,NO,85,90
+KXERUPTSUPER-0,KXERUPTSUPER-0-50JAN01,"Will a supervolcano erupt before 2050? a supervolcano - Before Jan 1, 2050",2050-01-01T04:59:00Z,YES,10,15
+KXERUPTSUPER-0,KXERUPTSUPER-0-50JAN01,"Will a supervolcano erupt before 2050? a supervolcano - Before Jan 1, 2050",2050-01-01T04:59:00Z,NO,85,90
+KXCOLONIZEMARS-50,KXCOLONIZEMARS-50,Will humans colonize Mars before 2050? Before 2050 - Before 2050,2050-01-01T04:59:00Z,YES,15,17
+KXCOLONIZEMARS-50,KXCOLONIZEMARS-50,Will humans colonize Mars before 2050? Before 2050 - Before 2050,2050-01-01T04:59:00Z,NO,83,85
+KXPERSONPRESMAM-45,KXPERSONPRESMAM-45,Will Zohran Mamdani become President of the United States before 2045? Before 2045 - Before 2045,2045-01-29T15:00:00Z,YES,3,7
+KXPERSONPRESMAM-45,KXPERSONPRESMAM-45,Will Zohran Mamdani become President of the United States before 2045? Before 2045 - Before 2045,2045-01-29T15:00:00Z,NO,93,97
+KXXISUCCESSOR-45JAN01,KXXISUCCESSOR-45JAN01-ZLEJ,"Who will be named as Xi Jinping's successor? Before Jan 1, 2045 - Zhao Leji",2045-01-01T04:59:00Z,YES,6,15
+KXXISUCCESSOR-45JAN01,KXXISUCCESSOR-45JAN01-ZLEJ,"Who will be named as Xi Jinping's successor? Before Jan 1, 2045 - Zhao Leji",2045-01-01T04:59:00Z,NO,85,94
+KXXISUCCESSOR-45JAN01,KXXISUCCESSOR-45JAN01-ZGUO,"Who will be named as Xi Jinping's successor? Before Jan 1, 2045 - Zhang Guoqing",2045-01-01T04:59:00Z,YES,0,7
+KXXISUCCESSOR-45JAN01,KXXISUCCESSOR-45JAN01-ZGUO,"Who will be named as Xi Jinping's successor? Before Jan 1, 2045 - Zhang Guoqing",2045-01-01T04:59:00Z,NO,93,100
+KXXISUCCESSOR-45JAN01,KXXISUCCESSOR-45JAN01-YYON,"Who will be named as Xi Jinping's successor? Before Jan 1, 2045 - Yin Yong",2045-01-01T04:59:00Z,YES,0,6
+KXXISUCCESSOR-45JAN01,KXXISUCCESSOR-45JAN01-YYON,"Who will be named as Xi Jinping's successor? Before Jan 1, 2045 - Yin Yong",2045-01-01T04:59:00Z,NO,94,100
+KXXISUCCESSOR-45JAN01,KXXISUCCESSOR-45JAN01-YLI,"Who will be named as Xi Jinping's successor? Before Jan 1, 2045 - Yin Li",2045-01-01T04:59:00Z,YES,0,7
+KXXISUCCESSOR-45JAN01,KXXISUCCESSOR-45JAN01-YLI,"Who will be named as Xi Jinping's successor? Before Jan 1, 2045 - Yin Li",2045-01-01T04:59:00Z,NO,93,100
+KXXISUCCESSOR-45JAN01,KXXISUCCESSOR-45JAN01-WHUN,"Who will be named as Xi Jinping's successor? Before Jan 1, 2045 - Wang Huning",2045-01-01T04:59:00Z,YES,0,8
+KXXISUCCESSOR-45JAN01,KXXISUCCESSOR-45JAN01-WHUN,"Who will be named as Xi Jinping's successor? Before Jan 1, 2045 - Wang Huning",2045-01-01T04:59:00Z,NO,92,100
+KXXISUCCESSOR-45JAN01,KXXISUCCESSOR-45JAN01-MXIN,"Who will be named as Xi Jinping's successor? Before Jan 1, 2045 - Ma Xingrui",2045-01-01T04:59:00Z,YES,0,6
+KXXISUCCESSOR-45JAN01,KXXISUCCESSOR-45JAN01-MXIN,"Who will be named as Xi Jinping's successor? Before Jan 1, 2045 - Ma Xingrui",2045-01-01T04:59:00Z,NO,94,100
+KXXISUCCESSOR-45JAN01,KXXISUCCESSOR-45JAN01-LXI,"Who will be named as Xi Jinping's successor? Before Jan 1, 2045 - Li Xi",2045-01-01T04:59:00Z,YES,9,18
+KXXISUCCESSOR-45JAN01,KXXISUCCESSOR-45JAN01-LXI,"Who will be named as Xi Jinping's successor? Before Jan 1, 2045 - Li Xi",2045-01-01T04:59:00Z,NO,82,91
+KXXISUCCESSOR-45JAN01,KXXISUCCESSOR-45JAN01-LQIA,"Who will be named as Xi Jinping's successor? Before Jan 1, 2045 - Li Qiang",2045-01-01T04:59:00Z,YES,11,20
+KXXISUCCESSOR-45JAN01,KXXISUCCESSOR-45JAN01-LQIA,"Who will be named as Xi Jinping's successor? Before Jan 1, 2045 - Li Qiang",2045-01-01T04:59:00Z,NO,80,89
+KXXISUCCESSOR-45JAN01,KXXISUCCESSOR-45JAN01-LGAN,"Who will be named as Xi Jinping's successor? Before Jan 1, 2045 - Li Ganjie",2045-01-01T04:59:00Z,YES,0,6
+KXXISUCCESSOR-45JAN01,KXXISUCCESSOR-45JAN01-LGAN,"Who will be named as Xi Jinping's successor? Before Jan 1, 2045 - Li Ganjie",2045-01-01T04:59:00Z,NO,94,100
+KXXISUCCESSOR-45JAN01,KXXISUCCESSOR-45JAN01-HLIF,"Who will be named as Xi Jinping's successor? Before Jan 1, 2045 - He Lifeng",2045-01-01T04:59:00Z,YES,0,6
+KXXISUCCESSOR-45JAN01,KXXISUCCESSOR-45JAN01-HLIF,"Who will be named as Xi Jinping's successor? Before Jan 1, 2045 - He Lifeng",2045-01-01T04:59:00Z,NO,94,100
+KXXISUCCESSOR-45JAN01,KXXISUCCESSOR-45JAN01-DXUE,"Who will be named as Xi Jinping's successor? Before Jan 1, 2045 - Ding Xuexiang",2045-01-01T04:59:00Z,YES,24,33
+KXXISUCCESSOR-45JAN01,KXXISUCCESSOR-45JAN01-DXUE,"Who will be named as Xi Jinping's successor? Before Jan 1, 2045 - Ding Xuexiang",2045-01-01T04:59:00Z,NO,67,76
+KXXISUCCESSOR-45JAN01,KXXISUCCESSOR-45JAN01-CQI,"Who will be named as Xi Jinping's successor? Before Jan 1, 2045 - Cai Qi",2045-01-01T04:59:00Z,YES,8,17
+KXXISUCCESSOR-45JAN01,KXXISUCCESSOR-45JAN01-CQI,"Who will be named as Xi Jinping's successor? Before Jan 1, 2045 - Cai Qi",2045-01-01T04:59:00Z,NO,83,92

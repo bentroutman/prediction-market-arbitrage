@@ -1,0 +1,51 @@
+event_id,title,outcome,price,end_date,liquidity,volume_usd
+16084,Fed rate hike in 2025?,Yes,0.008,2025-12-10T12:00:00Z,61855.82208,761774.4002
+16084,Fed rate hike in 2025?,No,0.992,2025-12-10T12:00:00Z,61855.82208,761774.4002
+16085,Will no Fed rate cuts happen in 2025?,Yes,0,2025-12-31T12:00:00Z,1095280.332,3257922.893
+16085,Will no Fed rate cuts happen in 2025?,No,1,2025-12-31T12:00:00Z,1095280.332,3257922.893
+16085,Will 7 Fed rate cuts happen in 2025?,Yes,0.0015,2025-12-31T12:00:00Z,271899.0462,2926714.112
+16085,Will 7 Fed rate cuts happen in 2025?,No,0.9985,2025-12-31T12:00:00Z,271899.0462,2926714.112
+16085,Will 1 Fed rate cut happen in 2025?,Yes,0,2025-12-31T12:00:00Z,1095280.332,2906248.946
+16085,Will 1 Fed rate cut happen in 2025?,No,1,2025-12-31T12:00:00Z,1095280.332,2906248.946
+16085,Will 2 Fed rate cuts happen in 2025?,Yes,0.46,2025-12-31T12:00:00Z,44979.6896,2780096.17
+16085,Will 2 Fed rate cuts happen in 2025?,No,0.54,2025-12-31T12:00:00Z,44979.6896,2780096.17
+16085,Will 6 Fed rate cuts happen in 2025?,Yes,0.0015,2025-12-31T12:00:00Z,305275.0342,2340969.7
+16085,Will 6 Fed rate cuts happen in 2025?,No,0.9985,2025-12-31T12:00:00Z,305275.0342,2340969.7
+16085,Will 3 Fed rate cuts happen in 2025?,Yes,0.515,2025-12-31T12:00:00Z,30514.5572,2770911.593
+16085,Will 3 Fed rate cuts happen in 2025?,No,0.485,2025-12-31T12:00:00Z,30514.5572,2770911.593
+16085,Will 4 Fed rate cuts happen in 2025?,Yes,0.019,2025-12-31T12:00:00Z,108366.3475,2725371.143
+16085,Will 4 Fed rate cuts happen in 2025?,No,0.981,2025-12-31T12:00:00Z,108366.3475,2725371.143
+16085,Will 5 Fed rate cuts happen in 2025?,Yes,0.004,2025-12-31T12:00:00Z,171829.6397,1977922.614
+16085,Will 5 Fed rate cuts happen in 2025?,No,0.996,2025-12-31T12:00:00Z,171829.6397,1977922.614
+16085,Will 8+ Fed rate cuts happen in 2025?,Yes,0.0015,2025-12-31T12:00:00Z,157320.5078,2362099.236
+16085,Will 8+ Fed rate cuts happen in 2025?,No,0.9985,2025-12-31T12:00:00Z,157320.5078,2362099.236
+16086,Tim Cook out as Apple CEO in 2025?,Yes,0.0445,2025-12-31T12:00:00Z,12393.31516,31570.41397
+16086,Tim Cook out as Apple CEO in 2025?,No,0.9555,2025-12-31T12:00:00Z,12393.31516,31570.41397
+16086,Dan Clancy out as Twitch CEO in 2025?,Yes,0.055,2025-12-31T12:00:00Z,2092.3378,180390.7264
+16086,Dan Clancy out as Twitch CEO in 2025?,No,0.945,2025-12-31T12:00:00Z,2092.3378,180390.7264
+16086,Sundar Pichai out as Google CEO in 2025?,Yes,0.038,2025-12-31T12:00:00Z,4111.16708,34284.38787
+16086,Sundar Pichai out as Google CEO in 2025?,No,0.962,2025-12-31T12:00:00Z,4111.16708,34284.38787
+16086,Andy Jassy out as Amazon CEO in 2025?,Yes,0.03,2025-12-31T12:00:00Z,5698.094,7774.968525
+16086,Andy Jassy out as Amazon CEO in 2025?,No,0.97,2025-12-31T12:00:00Z,5698.094,7774.968525
+16086,Brian Armstrong out as Coinbase CEO in 2025?,Yes,0.008,2025-12-31T12:00:00Z,3934.95129,171637.56
+16086,Brian Armstrong out as Coinbase CEO in 2025?,No,0.992,2025-12-31T12:00:00Z,3934.95129,171637.56
+16086,Sam Altman out as OpenAI CEO in 2025?,Yes,0.033,2025-12-31T12:00:00Z,5825.2562,78841.33348
+16086,Sam Altman out as OpenAI CEO in 2025?,No,0.967,2025-12-31T12:00:00Z,5825.2562,78841.33348
+16087,Will NVIDIA be the largest company in the world by market cap on December 31?,Yes,0.895,2025-12-31T12:00:00Z,69190.6444,1542350.884
+16087,Will NVIDIA be the largest company in the world by market cap on December 31?,No,0.105,2025-12-31T12:00:00Z,69190.6444,1542350.884
+16087,Will Microsoft be the largest company in the world by market cap on December 31?,Yes,0.015,2025-12-31T12:00:00Z,47616.13235,878714.3477
+16087,Will Microsoft be the largest company in the world by market cap on December 31?,No,0.985,2025-12-31T12:00:00Z,47616.13235,878714.3477
+16087,Will Alphabet be the largest company in the world by market cap on December 31?,Yes,0.0255,2025-12-31T12:00:00Z,52995.48018,1111634.913
+16087,Will Alphabet be the largest company in the world by market cap on December 31?,No,0.9745,2025-12-31T12:00:00Z,52995.48018,1111634.913
+16087,Will Tesla be the largest company in the world by market cap on December 31?,Yes,0.0025,2025-12-31T12:00:00Z,123428.7617,1242773.273
+16087,Will Tesla be the largest company in the world by market cap on December 31?,No,0.9975,2025-12-31T12:00:00Z,123428.7617,1242773.273
+16087,Will Apple be the largest company in the world by market cap on December 31?,Yes,0.073,2025-12-31T12:00:00Z,36130.49973,879286.0321
+16087,Will Apple be the largest company in the world by market cap on December 31?,No,0.927,2025-12-31T12:00:00Z,36130.49973,879286.0321
+16087,Will Company G be the largest company in the world by market cap on December 31?,Yes,0.495,2025-12-31T12:00:00Z,11.11,24610513.16
+16087,Will Company G be the largest company in the world by market cap on December 31?,No,0.505,2025-12-31T12:00:00Z,11.11,24610513.16
+16087,Will Amazon be the largest company in the world by market cap on December 31?,Yes,0.0015,2025-12-31T12:00:00Z,234693.2677,2522010.849
+16087,Will Amazon be the largest company in the world by market cap on December 31?,No,0.9985,2025-12-31T12:00:00Z,234693.2677,2522010.849
+16087,Will Saudi Aramco be the largest company in the world by market cap on December 31?,Yes,0.002,2025-12-31T12:00:00Z,138254.3653,16433742.86
+16087,Will Saudi Aramco be the largest company in the world by market cap on December 31?,No,0.998,2025-12-31T12:00:00Z,138254.3653,16433742.86
+16092,US recession in 2025?,Yes,0.0385,2026-02-28T12:00:00Z,74725.11782,10091804.23
+16092,US recession in 2025?,No,0.9615,2026-02-28T12:00:00Z,74725.11782,10091804.23
