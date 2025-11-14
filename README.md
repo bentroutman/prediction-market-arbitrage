@@ -1,5 +1,5 @@
 # Prediction Market Arbitrage Analysis
-This project analyzes prediction markets (Kalshi, Polymarket, and PredictIt), collecting and cleaning data from APIs using scikit-learn to match similar markets on each site and identify market efficiencies, especially through arbitrage opportunities.
+This project analyzes prediction markets (Kalshi, Polymarket, and PredictIt), collecting and cleaning data from APIs using scikit-learn to match similar markets on each site and identify market efficiencies, especially through arbitrage opportunities. It yielded a mean ROI of 9.41% over 75 arbitrage opportunities from 7/16/25 to 8/16/25.
 
 ---
 
