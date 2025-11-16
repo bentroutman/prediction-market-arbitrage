@@ -3,7 +3,6 @@
 
 # In[ ]:
 
-
 # Locates arbitrage opportunities on Polymarket, Kalshi, and PredictIt using data scraped from apis
 # Sends a Discord notification when profitable arbitrage opportunities are available
 # Run after prediction-market-scrapers and getting csv files on each prediction market
