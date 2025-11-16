@@ -3,7 +3,6 @@
 
 # In[ ]:
 
-
 # Scrapes polymarket api for open markets
 
 def prediction_markets():
