@@ -3,7 +3,6 @@
 
 # In[ ]:
 
-
 # Scrapes PredictIt api for open markets
 
 def prediction_markets():
