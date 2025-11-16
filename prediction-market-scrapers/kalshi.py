@@ -3,7 +3,6 @@
 
 # In[ ]:
 
-
 # Scrapes Kalshi api for open markets
 
 def prediction_markets():
